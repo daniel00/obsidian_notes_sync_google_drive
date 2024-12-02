@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "textFontFamily": "Gowun Dodum",
+  "interfaceFontFamily": "Gowun Dodum",
+  "baseFontSize": 18,
+  "monospaceFontFamily": "Monaco",
+  "enabledCssSnippets": [
+    "big-math",
+    "default_image_size"
+  ]
+}

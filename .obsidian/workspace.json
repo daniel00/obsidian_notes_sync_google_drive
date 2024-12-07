@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "동기화/새 링크문서.md",
+                "file": "태은/돼지.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "새 링크문서"
+              "title": "돼지"
             }
           },
           {
@@ -272,8 +272,9 @@
   },
   "active": "4c5e5a02752d2b44",
   "lastOpenFiles": [
-    "새 링크문서.md",
     "동기화/새 링크문서.md",
+    "태은/돼지.md",
+    "새 링크문서.md",
     "동기화-새 링크문서2.md",
     "옵시디언/문서 링크.md",
     "동기화",
@@ -315,7 +316,6 @@
     "옵시디언/옵시디언 심화 LaTeX 1.md",
     "battery/리튬이온 배터리.md",
     "개인/할일목록.md",
-    "개인/금주하자.md",
     "개인",
     "태은",
     "Untitled.canvas",

@@ -13,16 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디언/동기화.md",
+                "file": "컴퓨터/구글 드라이브.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "동기화"
+              "title": "구글 드라이브"
             }
           },
           {
-            "id": "77aeedbe352c8796",
+            "id": "56cb3187e90bf889",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,8 +34,23 @@
               "icon": "lucide-file",
               "title": "동기화-구글드라이브"
             }
+          },
+          {
+            "id": "0acba70d200b2357",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vim/buffer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "buffer"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,8 +132,7 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,10 +228,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aa7afdf02d1950eb",
+  "active": "56cb3187e90bf889",
   "lastOpenFiles": [
+    "컴퓨터/구글 드라이브.md",
+    "vim/buffer.md",
+    "태은/태은이 장난감.md",
+    "한글/맞춤법, 띄어쓰기.md",
+    "한글",
     "Jekyll/tmux.md",
+    "vim",
+    "Jekyll/Qt.md",
+    "정치/계엄령 미친놈.md",
     "옵시디언/동기화-구글드라이브.md",
+    "정치",
+    "동.md",
+    "images/Pasted image 20241203002010.png",
+    "컴퓨터",
+    "옵시디언/동기화.md",
     "Evernote/evernote_backup_20240516/_resources/쇼룸갈_시간도_없다면_직접_앉아본_소~ᅩ늘의집_인테리어_집꾸미기_고수들의_팁.resources/fda8e2ac3f6038507d4107991f67b1f0.jpg",
     "Evernote/evernote_backup_20240516/_resources/쇼룸갈_시간도_없다면_직접_앉아본_소~ᅩ늘의집_인테리어_집꾸미기_고수들의_팁.resources/f1482e68e22189dd646460ed9a886903.jpg",
     "Evernote/evernote_backup_20240516/_resources/쇼룸갈_시간도_없다면_직접_앉아본_소~ᅩ늘의집_인테리어_집꾸미기_고수들의_팁.resources/ef854eb78c0d70f276911f0c26b1ba3a.jpg",
@@ -227,7 +254,6 @@
     "Evernote/evernote_backup_20240516/_resources/쇼룸갈_시간도_없다면_직접_앉아본_소~ᅩ늘의집_인테리어_집꾸미기_고수들의_팁.resources/c7428ef288cd8e79e3c01a0d7e94f158.jpg",
     "Evernote/evernote_backup_20240516/_resources/쇼룸갈_시간도_없다면_직접_앉아본_소~ᅩ늘의집_인테리어_집꾸미기_고수들의_팁.resources/b37b819b9f2579d3cdf9422f0af4a922.jpg",
     "Evernote/evernote_backup_20240516/_resources/쇼룸갈_시간도_없다면_직접_앉아본_소~ᅩ늘의집_인테리어_집꾸미기_고수들의_팁.resources/a7871ba6c12f9ab25aa608c68049c4b2.jpg",
-    "Evernote/evernote_backup_20240516/_resources/쇼룸갈_시간도_없다면_직접_앉아본_소~ᅩ늘의집_인테리어_집꾸미기_고수들의_팁.resources/8c0e1ca2a08110c3c56bd7b3625e6741.jpg",
     "Evernote/evernote_backup_20240516/_resources/쇼룸갈_시간도_없다면_직접_앉아본_소~ᅩ늘의집_인테리어_집꾸미기_고수들의_팁.resources",
     "Evernote/evernote_backup_20240516/_resources/염좌,_디스크,_척추관협착증_등..._대표저~ᅥᆨ추질환의_증상과_치료법__네이버_포스트.resources",
     "Evernote/evernote_backup_20240516/_resources/중고를_포함한_모든_살만한_갤럭시_ᄎ~ᆯ럭시_갤러리_커뮤니티_포털_-디시인사이드.resources",
@@ -243,25 +269,13 @@
     "개인/할일목록.md",
     "개인/금주하자.md",
     "개인",
-    "태은/태은이 장난감.md",
     "태은",
     "dotnet maui/dotnet maui page navigation.md",
     "dotnet maui",
     "dotnet maui/maui lesson youtube.md",
-    "images/toss_ball.mp4",
     "sw 회의 2024 0709.md",
     "test.md",
     "test file.md",
-    "macbook/karabiner 카라비너로 esc 적용.md",
-    "알고리즘공부/히스토그램에서 가장 큰 직사각형.md",
-    "알고리즘공부/빨간색 직사각형.md",
-    "알고리즘공부",
-    "전자공학/전압 전류 전자기학.md",
-    "전자공학",
-    "Jekyll/2024-04-08-1차세계대전.md",
-    "macbook",
-    "Jekyll/2024-04-08-Animation.md",
-    "Jekyll/2024-04-08-constructor.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 3.canvas",

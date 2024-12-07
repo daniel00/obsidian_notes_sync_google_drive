@@ -13,5 +13,6 @@
   "obsidian-latex-suite",
   "templater-obsidian",
   "dataview",
-  "obsidian-bulk-rename-plugin"
+  "obsidian-bulk-rename-plugin",
+  "obsidian-git"
 ]

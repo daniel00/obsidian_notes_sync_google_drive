@@ -90,7 +90,10 @@ nmap <C-i> :forward
 exmap q obcommand workspace:close
 
 exmap co obcommand workspace:close-others
-nmap <C-w>o :co
+nmap <C-w>o :co<cr>
+
+exmap closeOthersTab obcommand workspace:close-others
+nmap co :closeOthersTab<cr>
 
 exmap vs obcommand workspace:split-vertical
 exmap sp obcommand workspace:split-horizontal

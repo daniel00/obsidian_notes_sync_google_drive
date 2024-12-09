@@ -160,7 +160,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -258,15 +259,16 @@
   },
   "active": "0acba70d200b2357",
   "lastOpenFiles": [
+    "컴퓨터/구글 드라이브 스트림,미러링.md",
+    "새 링크문서.md",
+    "옵시디언/command list.md",
     "옵시디언/문서 링크.md",
     "태은/돼지.md",
     "동기화/새 링크문서.md",
-    "새 링크문서.md",
     "동기화-새 링크문서2.md",
     "동기화",
     "옵시디언/동기화-구글드라이브.md",
     "vim/buffer.md",
-    "컴퓨터/구글 드라이브 스트림,미러링.md",
     "옵시디언/옵시디언 동영상 넣는법.md",
     "옵시디언/동기화.md",
     "태은/태은이 장난감.md",
@@ -301,7 +303,6 @@
     "testdir/test1.md",
     "옵시디언/옵시디언 심화 LaTeX 1.md",
     "battery/리튬이온 배터리.md",
-    "개인/할일목록.md",
     "개인",
     "태은",
     "Untitled.canvas",

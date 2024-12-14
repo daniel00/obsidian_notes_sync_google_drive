@@ -14,5 +14,6 @@
   "templater-obsidian",
   "dataview",
   "obsidian-bulk-rename-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-reminder-plugin"
 ]

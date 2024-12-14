@@ -186,12 +186,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 255.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,7 +208,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a93c53a5f48b32ae",
+  "active": "1787bc44c8659ca1",
   "lastOpenFiles": [
     "할일 to do.md",
     "개인/할일목록 to do list.md",

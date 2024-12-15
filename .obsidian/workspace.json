@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "58554afbaddf347c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "srt/login.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "login"
+            }
+          },
+          {
             "id": "da2dd02099f65318",
             "type": "leaf",
             "state": {
@@ -48,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -236,10 +250,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad4e7ac97389d53c",
+  "active": "58554afbaddf347c",
   "lastOpenFiles": [
-    "srt/login.md",
     "srt/참고프로젝트 - srt master.md",
+    "srt/login.md",
     "옵시디언/동기화-구글드라이브.md",
     "전자공학/전압 전류 전자기학.md",
     "옵시디언/동기화.md",

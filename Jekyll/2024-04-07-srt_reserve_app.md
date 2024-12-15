@@ -34,5 +34,4 @@ Dictionary dict = "메시지아이디":값
 
 지금까지 고려중인 앱 모양  
 
-
-<center><img src="/assets/2024-04-15-00-00-40.png" width="400" height="800"></center>
+ ![[2024-04-15-00-00-40.png]]

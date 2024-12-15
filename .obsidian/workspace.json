@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jekyll/맞춤법.md",
+                "file": "Evernote/evernote_backup_20240516/철도 승차권 열차 예매.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "맞춤법"
+              "title": "철도 승차권 열차 예매"
             }
           }
         ]
@@ -210,6 +210,7 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
+    "Jekyll/맞춤법.md",
     "개인/할일목록 to do list.md",
     "할일 to do.md",
     "옵시디언/동기화 (conflict 2024-12-14-15-44-21).md",
@@ -253,7 +254,6 @@
     "vpython/vector.md",
     "git/untracked content 에러 발생시 해결 방법.md",
     "vpython/testtemplate.md",
-    "vpython/test2.md",
     "개인",
     "태은",
     "Untitled.canvas",

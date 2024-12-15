@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dotnet maui/dotnet maui page navigation.md",
+                "file": "Jekyll/unity 2024-04-08-OpenProject.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dotnet maui page navigation"
+              "title": "unity 2024-04-08-OpenProject"
             }
           },
           {
@@ -222,6 +222,12 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
+    "assets/unity_open_prj.png",
+    "Jekyll/2024-05-05-mac-capture-image.md",
+    "Jekyll/2024-04-13-maui-xaml-cs-구조.md",
+    "dotnet maui/maui lesson youtube.md",
+    "Jekyll/2024-04-13-maui-build-error.md",
+    "dotnet maui/dotnet maui page navigation.md",
     "옵시디언/동기화-구글드라이브.md",
     "옵시디언/동기화.md",
     "옵시디언/동기화 (conflict 2024-12-14-15-44-21).md",
@@ -252,11 +258,6 @@
     "Jekyll/2024-02-09-RemoveHistory.md",
     "Jekyll/2024-02-09-AddImage.md",
     "Jekyll/2019-04-29-license.md",
-    "Jekyll/2019-04-28-howto.md",
-    "Jekyll/2019-04-27-why.md",
-    "dotnet maui/dotnet maui page navigation.md",
-    "Jekyll/2024-05-05-yadm.md",
-    "Jekyll/2024-04-08-1차세계대전.md",
     "assets/syntax.css",
     "assets/search_plus_index.json",
     "assets/search.html",

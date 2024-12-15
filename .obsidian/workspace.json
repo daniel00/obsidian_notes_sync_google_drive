@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srt/login.md",
+                "file": "srt/참고프로젝트 - srt master.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "login"
+              "title": "참고프로젝트 - srt master"
             }
           },
           {
@@ -238,8 +238,9 @@
   },
   "active": "ad4e7ac97389d53c",
   "lastOpenFiles": [
-    "옵시디언/동기화-구글드라이브.md",
     "srt/login.md",
+    "srt/참고프로젝트 - srt master.md",
+    "옵시디언/동기화-구글드라이브.md",
     "전자공학/전압 전류 전자기학.md",
     "옵시디언/동기화.md",
     "컴퓨터/구글 드라이브 스트림,미러링.md",
@@ -273,7 +274,6 @@
     "Jekyll/2024-02-17-newfile.md",
     "Jekyll/2024-02-16-hello333.md",
     "Jekyll/2024-02-15-hello-world.md",
-    "Jekyll/2024-02-15-cpptest222.md",
     "assets/syntax.css",
     "assets/search_plus_index.json",
     "assets/search.html",

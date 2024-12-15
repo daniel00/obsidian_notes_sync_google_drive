@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인/할일목록 to do list.md",
+                "file": "Jekyll/맞춤법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "할일목록 to do list"
+              "title": "맞춤법"
             }
           }
         ]
@@ -208,10 +208,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1787bc44c8659ca1",
+  "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
-    "할일 to do.md",
     "개인/할일목록 to do list.md",
+    "할일 to do.md",
     "옵시디언/동기화 (conflict 2024-12-14-15-44-21).md",
     "Evernote/evernote_backup_20240516/계정 암호.md",
     "컴퓨터/구글 드라이브 스트림,미러링.md",

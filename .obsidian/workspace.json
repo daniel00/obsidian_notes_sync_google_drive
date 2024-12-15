@@ -27,14 +27,13 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-15 23.31.27.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-12-01 12.57.40.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-15 23.31.27.excalidraw"
+              "title": "Drawing 2024-12-01 12.57.40.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,9 +220,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da2dd02099f65318",
+  "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
+    "images/Pasted image 20241215233307.png",
+    "images/Pasted image 20241203002010.png",
+    "images/Pasted image 20241130193743.png",
     "옵시디언/동기화-구글드라이브.md",
+    "Excalidraw/Drawing 2024-12-01 12.57.40.excalidraw.md",
     "Excalidraw/Drawing 2024-12-15 23.31.27.excalidraw.md",
     "옵시디언/동기화 (conflict 2024-12-14-15-44-21).md",
     "옵시디언/동기화.md",
@@ -235,8 +238,6 @@
     "images/Pasted image 20241130172506.png",
     "images/Pasted image 20241128212633.png",
     "images/Pasted image 20241128212518.png",
-    "images/Pasted image 20241110012715.png",
-    "images/Pasted image 20241106231512.png",
     "Jekyll/2024-04-07-csharp_on_mac.md",
     "Jekyll/2024-04-07-srt_reserve_app.md",
     "Jekyll/2024-03-25-set_macbook_aac_aptx.md",
@@ -260,8 +261,6 @@
     "assets/syntax.css",
     "assets/search_plus_index.json",
     "assets/search.html",
-    "assets/unity_open_prj.png.md",
-    "assets/new.png.md",
     "srt",
     "telegram",
     "동기화",

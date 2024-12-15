@@ -1,7 +1,7 @@
 ---
 created: 2024-12-15 17:17
 updated: 2024-12-15 17:17
-tags: []
+tags: [srt, telegram, bot, token]
 alias: []
 ---
 

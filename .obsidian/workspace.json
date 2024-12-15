@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디언/동기화 (conflict 2024-12-14-15-44-21).md",
+                "file": "옵시디언/동기화-구글드라이브.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "동기화 (conflict 2024-12-14-15-44-21)"
+              "title": "동기화-구글드라이브"
+            }
+          },
+          {
+            "id": "da2dd02099f65318",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-12-15 23.31.27.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-15 23.31.27.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,8 +221,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a93c53a5f48b32ae",
+  "active": "da2dd02099f65318",
   "lastOpenFiles": [
+    "옵시디언/동기화-구글드라이브.md",
+    "Excalidraw/Drawing 2024-12-15 23.31.27.excalidraw.md",
+    "옵시디언/동기화 (conflict 2024-12-14-15-44-21).md",
     "옵시디언/동기화.md",
     "images/Pasted image 20240930220805.png",
     "images/Pasted image 20241130190444.png",
@@ -221,8 +237,6 @@
     "images/Pasted image 20241128212518.png",
     "images/Pasted image 20241110012715.png",
     "images/Pasted image 20241106231512.png",
-    "옵시디언/동기화-구글드라이브.md",
-    "옵시디언/동기화 (conflict 2024-12-14-15-44-21).md",
     "Jekyll/2024-04-07-csharp_on_mac.md",
     "Jekyll/2024-04-07-srt_reserve_app.md",
     "Jekyll/2024-03-25-set_macbook_aac_aptx.md",

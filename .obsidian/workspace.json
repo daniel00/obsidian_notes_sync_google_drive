@@ -49,7 +49,8 @@
               "title": "계정 암호"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,12 +238,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a93c53a5f48b32ae",
+  "active": "da2dd02099f65318",
   "lastOpenFiles": [
+    "template/new file template.md",
+    "srt/참고프로젝트 - srt master.md",
     "옵시디언/동기화-구글드라이브.md",
     "update test.md",
-    "srt/참고프로젝트 - srt master.md",
-    "template/new file template.md",
     "Evernote/evernote_backup_20240516/계정 암호.md",
     "Excalidraw/Drawing 2024-12-15 23.31.27.excalidraw.md",
     "Excalidraw/Drawing 2024-12-01 12.57.40.excalidraw.md",

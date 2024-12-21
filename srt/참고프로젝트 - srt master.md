@@ -10,6 +10,8 @@ updated: 2024-12-16 00:28
 
 이 프로젝트를 참고해서 만들어 보자.
 아래의 login, logout, search_schedule 등을 참고해서 천천히 만들어 보자!
+updated.... test
+
 
 
 ```python

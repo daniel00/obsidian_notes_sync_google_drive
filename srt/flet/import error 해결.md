@@ -13,3 +13,4 @@ pip install -U flet
 ```
 
 이렇게 했더니,  import fret as ft 에  있던 에러(fret 에 빨간색 밑줄)가 사라졌다.
+

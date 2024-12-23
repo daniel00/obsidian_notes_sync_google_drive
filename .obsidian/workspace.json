@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evernote/evernote_backup_20240516/계정 암호.md",
+                "file": "srt/flet/import error 해결.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "계정 암호"
+              "title": "import error 해결"
             }
           }
         ],
@@ -132,7 +132,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -240,11 +241,32 @@
   },
   "active": "da2dd02099f65318",
   "lastOpenFiles": [
+    "images/Pasted image 20241223234422.png",
+    "images/Pasted image 20241223234136.png",
+    "srt/flet/venv설정.md",
+    "srt/flet/import error 해결.md",
+    "copilot/accept change.md",
+    "images/Pasted image 20241222184047.png",
+    "srt/flet/android설정.md",
+    "copilot",
+    "images/Pasted image 20241222151938.png",
+    "images/Pasted image 20241222131622.png",
+    "srt/search schedule.md",
+    "srt/flet",
+    "images/Pasted image 20241222014335.png",
+    "Evernote/evernote_backup_20240516/계정 암호.md",
+    "telegram",
+    "Evernote/evernote_backup_20240516/_resources/삼익가구_송파점_알렉스_제로월_리클라이너_후기__네이버_블로그.resources",
+    "Evernote/evernote_backup_20240516/_resources/남편의_이혼소송_기각_판결_후_항소를_하는_경우가_많은가요__네이버_블로그.resources",
+    "Evernote/evernote_backup_20240516/_resources/거시경제학_책_구매.resources",
+    "Evernote/evernote_backup_20240516/_resources/계정_암호.resources",
+    "Evernote/evernote_backup_20240516/_resources/쇼룸갈_시간도_없다면_직접_앉아본_소~ᅩ늘의집_인테리어_집꾸미기_고수들의_팁.resources",
+    "Evernote/evernote_backup_20240516/_resources/법무법인_산하_곽노규_수석_변호사,_어린_아이_양육권,_아빠도_포기_말아야.resources",
+    "Evernote/evernote_backup_20240516/_resources/블럭_부품_맞추기.resources",
     "template/new file template.md",
     "srt/참고프로젝트 - srt master.md",
     "옵시디언/동기화-구글드라이브.md",
     "update test.md",
-    "Evernote/evernote_backup_20240516/계정 암호.md",
     "Excalidraw/Drawing 2024-12-15 23.31.27.excalidraw.md",
     "Excalidraw/Drawing 2024-12-01 12.57.40.excalidraw.md",
     "옵시디언/옵시디언 동영상 넣는법.md",
@@ -264,28 +286,7 @@
     "dotnet maui/maui lesson youtube.md",
     "Jekyll/2024-04-13-maui-build-error.md",
     "dotnet maui/dotnet maui page navigation.md",
-    "옵시디언/동기화 (conflict 2024-12-14-15-44-21).md",
     "images/Pasted image 20240515220214.png",
-    "images/Pasted image 20240515215040.png",
-    "images/Pasted image 20240515214543.png",
-    "images/Pasted image 20240513234240.png",
-    "images/Pasted image 20240512171021.png",
-    "images/Pasted image 20241201165748.png",
-    "Jekyll/2024-04-07-csharp_on_mac.md",
-    "Jekyll/2024-04-07-srt_reserve_app.md",
-    "Jekyll/2024-03-25-set_macbook_aac_aptx.md",
-    "Jekyll/2024-02-19-test3.md",
-    "Jekyll/2024-02-17-yootest.md",
-    "assets/syntax.css",
-    "assets/search_plus_index.json",
-    "assets/search.html",
-    "srt",
-    "telegram",
-    "동기화",
-    "한글",
-    "vim",
-    "정치",
-    "컴퓨터",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 3.canvas",

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srt/flet/import error 해결.md",
+                "file": "Jekyll/2024-05-02-LogitechMouse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "import error 해결"
+              "title": "2024-05-02-LogitechMouse"
             }
           }
         ],
@@ -241,10 +241,10 @@
   },
   "active": "da2dd02099f65318",
   "lastOpenFiles": [
+    "srt/flet/import error 해결.md",
     "images/Pasted image 20241223234422.png",
     "images/Pasted image 20241223234136.png",
     "srt/flet/venv설정.md",
-    "srt/flet/import error 해결.md",
     "copilot/accept change.md",
     "images/Pasted image 20241222184047.png",
     "srt/flet/android설정.md",
@@ -286,7 +286,6 @@
     "dotnet maui/maui lesson youtube.md",
     "Jekyll/2024-04-13-maui-build-error.md",
     "dotnet maui/dotnet maui page navigation.md",
-    "images/Pasted image 20240515220214.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 3.canvas",

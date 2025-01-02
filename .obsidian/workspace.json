@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jekyll/2024-05-02-LogitechMouse.md",
+                "file": "python/venvselector.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-05-02-LogitechMouse"
+              "title": "venvselector"
             }
           }
         ],
@@ -241,6 +241,9 @@
   },
   "active": "da2dd02099f65318",
   "lastOpenFiles": [
+    "Jekyll/2024-05-02-LogitechMouse.md",
+    "python/venvselector.md",
+    "python",
     "srt/flet/import error 해결.md",
     "images/Pasted image 20241223234422.png",
     "images/Pasted image 20241223234136.png",
@@ -262,7 +265,6 @@
     "Evernote/evernote_backup_20240516/_resources/계정_암호.resources",
     "Evernote/evernote_backup_20240516/_resources/쇼룸갈_시간도_없다면_직접_앉아본_소~ᅩ늘의집_인테리어_집꾸미기_고수들의_팁.resources",
     "Evernote/evernote_backup_20240516/_resources/법무법인_산하_곽노규_수석_변호사,_어린_아이_양육권,_아빠도_포기_말아야.resources",
-    "Evernote/evernote_backup_20240516/_resources/블럭_부품_맞추기.resources",
     "template/new file template.md",
     "srt/참고프로젝트 - srt master.md",
     "옵시디언/동기화-구글드라이브.md",
@@ -285,7 +287,6 @@
     "Jekyll/2024-04-13-maui-xaml-cs-구조.md",
     "dotnet maui/maui lesson youtube.md",
     "Jekyll/2024-04-13-maui-build-error.md",
-    "dotnet maui/dotnet maui page navigation.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 3.canvas",

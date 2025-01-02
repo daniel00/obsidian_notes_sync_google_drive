@@ -1,7 +1,7 @@
 ---
 title: 로지텍 마우스 끊김 해결 방법
 tags:
-  - all
+	  - all
   - algorithm
   - hardware
   - computer

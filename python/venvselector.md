@@ -27,4 +27,6 @@ https://github.com/linux-cultist/venv-selector.nvim
 ![[Pasted image 20250103040007.png]]
 
 
+venv-selector설정은 아래와 같이 하면된다.
 
+![[Pasted image 20250103040222.png]]

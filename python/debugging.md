@@ -18,4 +18,7 @@ F5를 눌렀더니, 팝업이 하나 출력되었다.
 
 LazyVim에서 미리 설정된 디버깅 키맵은 다음과 같다. (<leader>d 를 누르면 디버깅 키맵이 출력된다.)
 
-,db           toggle break
+,db           toggle break point
+,dB           toggle break point by condition
+,dc           continue
+,do           step over

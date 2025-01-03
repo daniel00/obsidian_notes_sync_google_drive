@@ -132,8 +132,7 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -239,8 +238,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d4a14f4824ec4a2b",
+  "active": "da2dd02099f65318",
   "lastOpenFiles": [
+    "images/Pasted image 20250103142406.png",
     "python/venvselector.md",
     "python/debugging.md",
     "_resources/Provide_Raspberry_Pi_with_a_static_IP_address_-_IONOS.resources/csm_netzwerkadressuebersetzung-t_182e3b7855.jpg.md",
@@ -286,7 +286,6 @@
     "Jekyll/unity 2024-04-08-StudyUi.md",
     "Jekyll/unity 2024-04-08-OpenProject.md",
     "Jekyll/2024-05-05-mac-capture-image.md",
-    "Jekyll/2024-04-13-maui-xaml-cs-구조.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 3.canvas",

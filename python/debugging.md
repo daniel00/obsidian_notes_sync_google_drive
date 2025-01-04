@@ -1,7 +1,7 @@
 ---
 created: 2025-01-03 14:21
 updated: 2025-01-03 14:21
-tags: []
+tags: [python, debug]
 alias: []
 ---
 

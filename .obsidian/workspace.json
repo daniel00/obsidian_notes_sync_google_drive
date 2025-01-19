@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/debugging.md",
+                "file": "lazynvim/colorscheme 변경 방법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "debugging"
+              "title": "colorscheme 변경 방법"
             }
           }
         ],
@@ -240,9 +240,11 @@
   },
   "active": "da2dd02099f65318",
   "lastOpenFiles": [
+    "python/debugging.md",
+    "lazynvim/colorscheme 변경 방법.md",
+    "lazynvim",
     "images/Pasted image 20250103142406.png",
     "python/venvselector.md",
-    "python/debugging.md",
     "_resources/Provide_Raspberry_Pi_with_a_static_IP_address_-_IONOS.resources/csm_netzwerkadressuebersetzung-t_182e3b7855.jpg.md",
     "_resources/Provide_Raspberry_Pi_with_a_static_IP_address_-_IONOS.resources",
     "_resources",
@@ -269,7 +271,6 @@
     "Evernote/evernote_backup_20240516/_resources/삼익가구_송파점_알렉스_제로월_리클라이너_후기__네이버_블로그.resources",
     "Evernote/evernote_backup_20240516/_resources/남편의_이혼소송_기각_판결_후_항소를_하는_경우가_많은가요__네이버_블로그.resources",
     "Evernote/evernote_backup_20240516/_resources/거시경제학_책_구매.resources",
-    "Evernote/evernote_backup_20240516/_resources/계정_암호.resources",
     "template/new file template.md",
     "srt/참고프로젝트 - srt master.md",
     "옵시디언/동기화-구글드라이브.md",
@@ -282,7 +283,6 @@
     "전자공학/전압 전류 전자기학.md",
     "옵시디언/동기화.md",
     "컴퓨터/구글 드라이브 스트림,미러링.md",
-    "images/Pasted image 20241201180658.png",
     "Jekyll/unity 2024-04-08-StudyUi.md",
     "Jekyll/unity 2024-04-08-OpenProject.md",
     "Jekyll/2024-05-05-mac-capture-image.md",

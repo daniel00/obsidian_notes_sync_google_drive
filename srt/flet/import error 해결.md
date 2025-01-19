@@ -1,7 +1,7 @@
 ---
 created: 2024-12-23 23:41
 updated: 2024-12-23 23:41
-tags: [flet, import error, ]
+tags: [flet, import error, venv]
 alias: []
 ---
 

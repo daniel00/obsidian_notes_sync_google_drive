@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srt/login.md",
+                "file": "srt/flet/venv설정.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "login"
+              "title": "venv설정"
             }
           }
         ]
@@ -211,6 +211,7 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
+    "srt/login.md",
     "srt/참고프로젝트 - srt master.md",
     "template/new file template.md",
     "전자책.md",
@@ -252,7 +253,6 @@
     "Excalidraw/Drawing 2024-12-01 12.57.40.excalidraw.md",
     "옵시디언/옵시디언 동영상 넣는법.md",
     "정치/계엄령 미친놈.md",
-    "srt/login.md",
     "전자공학/전압 전류 전자기학.md",
     "옵시디언/동기화.md",
     "컴퓨터/구글 드라이브 스트림,미러링.md",

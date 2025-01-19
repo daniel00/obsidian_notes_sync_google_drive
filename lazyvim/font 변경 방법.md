@@ -1,7 +1,7 @@
 ---
 created: 2025-01-19 16:14
 updated: 2025-01-19 16:14
-tags: [font, lazyvim , monaco]
+tags: [font, lazyvim , monaco, nerd]
 alias: []
 ---
 

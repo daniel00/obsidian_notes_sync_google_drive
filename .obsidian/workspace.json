@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srt/flet/venv설정.md",
+                "file": "srt/flet/import error 해결.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "venv설정"
+              "title": "import error 해결"
             }
           }
         ]
@@ -211,6 +211,7 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
+    "srt/flet/venv설정.md",
     "srt/login.md",
     "srt/참고프로젝트 - srt master.md",
     "template/new file template.md",
@@ -234,7 +235,6 @@
     "srt/flet/import error 해결.md",
     "images/Pasted image 20241223234422.png",
     "images/Pasted image 20241223234136.png",
-    "srt/flet/venv설정.md",
     "copilot/accept change.md",
     "images/Pasted image 20241222184047.png",
     "srt/flet/android설정.md",

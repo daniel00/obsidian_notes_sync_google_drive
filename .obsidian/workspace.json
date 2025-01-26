@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인/할일목록 to do list.md",
+                "file": "옵시디언/동기화-구글드라이브.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "할일목록 to do list"
+              "title": "동기화-구글드라이브"
             }
           }
         ]
@@ -211,6 +211,7 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
+    "개인/할일목록 to do list.md",
     "리마인더.md",
     "옵시디언/test note.md",
     "옵시디언/srt  매크로 앱 개발 고전 포인트.md",
@@ -238,7 +239,6 @@
     "srt/참고프로젝트 - srt master.md",
     "template/new file template.md",
     "전자책.md",
-    "lazyvim/font 변경 방법.md",
     "images/Pasted image 20250119161835.png",
     "lazyvim",
     "lazynvim",

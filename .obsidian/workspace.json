@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "역사/전제군주제.md",
+                "file": "알고리즘공부/bfs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "전제군주제"
+              "title": "bfs"
             }
           }
         ]
@@ -211,10 +211,11 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
+    "역사/전제군주제.md",
+    "알고리즘공부/bfs.md",
     "images/Pasted image 20250127010251.png",
     "images/Pasted image 20250127005356.png",
     "옵시디언/동기화-구글드라이브.md",
-    "역사/전제군주제.md",
     "개인/할일목록 to do list.md",
     "리마인더.md",
     "옵시디언/test note.md",
@@ -251,7 +252,6 @@
     "images/Pasted image 20250103040007.png",
     "python",
     "images/Pasted image 20241223234422.png",
-    "images/Pasted image 20241223234136.png",
     "copilot",
     "srt/flet",
     "telegram",

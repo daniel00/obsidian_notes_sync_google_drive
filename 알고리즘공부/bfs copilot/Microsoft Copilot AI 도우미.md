@@ -1,19 +1,15 @@
 ---
-created: 2025-01-27 01:56
-updated: 2025-01-27 01:56
-tags: []
-alias: []
+title: "Microsoft Copilot: AI 도우미"
+source: "https://copilot.microsoft.com/chats/FCeisX284247aMvPB9RzY"
+author:
+  - "[[Microsoft Copilot: AI 도우미]]"
+published:
+created: 2025-01-27
+description: "Microsoft Copilot은 정보를 제공하고, 생절하고, 영감을 주는 도우미입니다. 조언, 피드백 및 간단한 답변을 얻으세요. 지금 Copilot을 사용해 보세요."
+tags:
+  - "clippings"
 ---
-
-created: 2025-01-27 01:56
-updated: 2025-01-27 01:56
-
-#### BFS(Bread First Search, 너비우선 탐색)
-
-루트 부터 하위 노드(같은 레벨)을 머
-
-
-```cpp
+```
 #include <iostream>
 #include <queue>
 #include <utility>

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘공부/bfs.md",
+                "file": "boj/1726 로봇. robot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bfs"
+              "title": "1726 로봇. robot"
             }
           }
         ]
@@ -211,9 +211,11 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
+    "알고리즘공부/bfs.md",
+    "boj/1726 로봇. robot.md",
+    "boj",
     "images/Pasted image 20250129204545.png",
     "2025-01-27.md",
-    "알고리즘공부/bfs.md",
     "capture_temp.md",
     "옵시디언/동기화-구글드라이브 (conflict 2025-01-27-02-24-50).md",
     "Screenshot_20250127_003714_Samsung capture.jpg",
@@ -253,10 +255,8 @@
     "_resources/Provide_Raspberry_Pi_with_a_static_IP_address_-_IONOS.resources",
     "_resources",
     "images/Pasted image 20250103040222.png",
-    "images/Pasted image 20250103040040.png",
     "python",
     "copilot",
-    "srt/flet",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 3.canvas",

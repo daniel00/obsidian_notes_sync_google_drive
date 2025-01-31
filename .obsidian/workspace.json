@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘공부/bfs.md",
+                "file": "옵시디언/latex사용법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bfs"
+              "title": "latex사용법"
             }
           }
         ]
@@ -211,8 +211,9 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
-    "옵시디언/문서 링크.md",
     "알고리즘공부/bfs.md",
+    "[.md",
+    "옵시디언/문서 링크.md",
     "boj/1726 로봇. robot.md",
     "images/Pasted image 20250130042019.png",
     "boj",

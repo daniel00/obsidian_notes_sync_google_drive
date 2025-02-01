@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘공부/bfs.md",
+                "file": "boj/2606 바이러스.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bfs"
+              "title": "2606 바이러스"
             }
           }
         ]
@@ -211,8 +211,9 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
-    "옵시디언/latex사용법.md",
     "알고리즘공부/bfs.md",
+    "boj/2606 바이러스.md",
+    "옵시디언/latex사용법.md",
     "[.md",
     "옵시디언/문서 링크.md",
     "boj/1726 로봇. robot.md",
@@ -246,7 +247,6 @@
     "옵시디언/옵시디언 심화 LaTeX 1.md",
     "옵시디언/옵시디언 심화 LaTeX.md",
     "옵시디언/옵시디언 사용할때 발열.md",
-    "옵시디언/옵시디언 동영상 넣는법.md",
     "images/Pasted image 20250119171524.png",
     "images/Pasted image 20250119171421.png",
     "images/Pasted image 20250119161835.png",

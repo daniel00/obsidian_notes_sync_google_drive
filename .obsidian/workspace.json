@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "boj/2606 바이러스.md",
+                "file": "python/debugging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2606 바이러스"
+              "title": "debugging"
             }
           }
         ]
@@ -211,8 +211,9 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
-    "알고리즘공부/bfs.md",
+    "nvim/debug 설정 방법.md",
     "boj/2606 바이러스.md",
+    "알고리즘공부/bfs.md",
     "옵시디언/latex사용법.md",
     "[.md",
     "옵시디언/문서 링크.md",
@@ -246,7 +247,6 @@
     "옵시디언/옵시디언 요약.md",
     "옵시디언/옵시디언 심화 LaTeX 1.md",
     "옵시디언/옵시디언 심화 LaTeX.md",
-    "옵시디언/옵시디언 사용할때 발열.md",
     "images/Pasted image 20250119171524.png",
     "images/Pasted image 20250119171421.png",
     "images/Pasted image 20250119161835.png",

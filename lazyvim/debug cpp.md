@@ -27,3 +27,10 @@ Launch file 선택
 실행파일 경로 입력 (a.out)
 ![[Pasted image 20250206034321.png]]
 
+디버깅 시작됨. 브레이크 포인트에 멈춤
+![[Pasted image 20250206034424.png]]
+
+
+디버깅 멈추는 법.
+
+leader + dt (debug termination)

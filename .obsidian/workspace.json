@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nvim/clang이 헤더파이 못 찾을때 해결 방법.md",
+                "file": "lazynvim/colorscheme 변경 방법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "clang이 헤더파이 못 찾을때 해결 방법"
+              "title": "colorscheme 변경 방법"
             }
           }
         ]
@@ -211,6 +211,7 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
+    "nvim/clang이 헤더파이 못 찾을때 해결 방법.md",
     "lazyvim/debug cpp.md",
     "images/Pasted image 20250206034424.png",
     "images/Pasted image 20250206034321.png",

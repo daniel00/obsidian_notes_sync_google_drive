@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lazyvim/debug cpp.md",
+                "file": "nvim/clang이 헤더파이 못 찾을때 해결 방법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "debug cpp"
+              "title": "clang이 헤더파이 못 찾을때 해결 방법"
             }
           }
         ]
@@ -211,12 +211,12 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
+    "lazyvim/debug cpp.md",
     "images/Pasted image 20250206034424.png",
     "images/Pasted image 20250206034321.png",
     "images/Pasted image 20250206033757.png",
     "images/Pasted image 20250206033650.png",
     "python/debugging.md",
-    "lazyvim/debug cpp.md",
     "nvim/debug 설정 방법.md",
     "boj/2606 바이러스.md",
     "알고리즘공부/bfs.md",
@@ -250,7 +250,6 @@
     "옵시디언/태그폴더.md",
     "옵시디언/이미지크기 설정 하는 방법.md",
     "옵시디언/옵시디언 vim.md",
-    "images/Pasted image 20250119171524.png",
     "lazyvim",
     "lazynvim",
     "_resources/Provide_Raspberry_Pi_with_a_static_IP_address_-_IONOS.resources",

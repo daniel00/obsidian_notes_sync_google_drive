@@ -52,3 +52,20 @@ vim.cmd [[
   Yoo ───
 
 
+아래 참고.
+
+
+vim.cmd [[
+  autocmd TermOpen * tnoremap <buffer> <C-h> <BS>
+]]
+
+이렇게 했는데, 터미널을 처음 열었을때만 백스페이스가 동작하고 닫았다가 다시 열면 동작하지 않아
+
+  Copilot ───
+
+`autocmd`를 `TermOpen` 이벤트에만 설정하면 터미널을 처음 열 때만 동작합니다. 터미널을 닫았다가 다시 열 때도 동작하게 하려면 `TermEnter` 이벤트를 추가해보세요:
+
+```lua
+vim.cmd [[
+  autocmd TermOpen,TermEnter * tnoremap <buffer> <C-h> <BS>
+]]

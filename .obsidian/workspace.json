@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lazynvim/colorscheme 변경 방법.md",
+                "file": "macbook/karabiner 카라비너로 esc 적용.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "colorscheme 변경 방법"
+              "title": "karabiner 카라비너로 esc 적용"
             }
           }
         ]
@@ -211,6 +211,7 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
+    "lazynvim/colorscheme 변경 방법.md",
     "nvim/clang이 헤더파이 못 찾을때 해결 방법.md",
     "lazyvim/debug cpp.md",
     "images/Pasted image 20250206034424.png",
@@ -250,7 +251,6 @@
     "옵시디언/command list.md",
     "옵시디언/태그폴더.md",
     "옵시디언/이미지크기 설정 하는 방법.md",
-    "옵시디언/옵시디언 vim.md",
     "lazyvim",
     "lazynvim",
     "_resources/Provide_Raspberry_Pi_with_a_static_IP_address_-_IONOS.resources",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lazyvim/leader key.md",
+                "file": "lazyvim/esc key설정.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "leader key"
+              "title": "esc key설정"
             }
           }
         ]
@@ -213,9 +213,11 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
+    "images/Pasted image 20250209230739.png",
+    "lazyvim/leader key.md",
+    "lazyvim/esc key설정.md",
     "images/Pasted image 20250209230242.png",
     "lazyvim/ctrl h 작동 안됨해결. zshrc설정과 중복.md",
-    "lazyvim/leader key.md",
     "macbook/karabiner 카라비너로 esc 적용.md",
     "lazynvim/colorscheme 변경 방법.md",
     "nvim/clang이 헤더파이 못 찾을때 해결 방법.md",
@@ -246,13 +248,11 @@
     "알고리즘공부/bfs copilot",
     "역사/전제군주제.md",
     "images/Pasted image 20250127010251.png",
-    "images/Pasted image 20250127005356.png",
     "옵시디언/동기화-구글드라이브.md",
     "개인/할일목록 to do list.md",
     "리마인더.md",
     "옵시디언/test note.md",
     "옵시디언/srt  매크로 앱 개발 고전 포인트.md",
-    "옵시디언/Obsidian 사용법을 정리해 봅니다..md",
     "lazyvim",
     "lazynvim",
     "_resources/Provide_Raspberry_Pi_with_a_static_IP_address_-_IONOS.resources",

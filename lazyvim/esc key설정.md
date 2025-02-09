@@ -15,8 +15,13 @@ updated: 2025-02-09 23:07
    
    *아래 이미지에서 esc_semi 도 등록해서 ctrl + ; 를 눌러도 위와 동일한 동작을 하도록 했었는데, lazyvim에서 ctrl을 무시한체 세미콜론; 만 인식하여 cmd line 팝업을 띄우는 경우가 발생해서 이건 사용하지 않는다.
 
+2. 카라비너에 ctrl + ; 가 esc + 영문 전환하는 스크립트를 등록해 사용.
 
+hammerspoon 스크립트. init.lua
 
 ![[Pasted image 20250209230739.png]]
 
 
+카라비너 스크립트
+
+![[Pasted image 20250209231321.png]]

@@ -1,16 +1,17 @@
 ---
 created: 2025-02-10 00:16
 updated: 2025-02-10 00:16
-tags: []
+tags: [terminal, autochdir]
 alias: []
 ---
 
 created: 2025-02-10 00:16
 updated: 2025-02-10 00:16
 
-#### 제목을 입력 하세요
+#### 현재 파일경로에서 터미널을 여는 방법을 검토하다가 정리한다.
 
-내용을 입력 하세요
+아래의 vim.opt.autochdir = true 를 설정해야 현재 디렉토리를 제대로 읽어온다.
+
 ```lua
 vim.g.mapleader = ","
 

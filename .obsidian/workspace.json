@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lazyvim/startify 설치 방법.md",
+                "file": "lazyvim/leader key.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "startify 설치 방법"
+              "title": "leader key"
             }
           }
         ]
@@ -213,8 +213,8 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
-    "Jekyll/tmux.md",
     "lazyvim/startify 설치 방법.md",
+    "Jekyll/tmux.md",
     "tmux/resurrect/내가 리눅스를 써야만 하는 이유 3 - Tmux  MadForFamily.md",
     "tmux/resurrect",
     "tmux",

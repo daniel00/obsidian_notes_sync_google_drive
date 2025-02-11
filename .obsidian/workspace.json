@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lazyvim/leader key.md",
+                "file": "Jekyll/tmux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "leader key"
+              "title": "tmux"
             }
           }
         ]
@@ -213,6 +213,8 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
+    "lazynvim/colorscheme 변경 방법.md",
+    "lazyvim/leader key.md",
     "lazyvim/startify 설치 방법.md",
     "Jekyll/tmux.md",
     "tmux/resurrect/내가 리눅스를 써야만 하는 이유 3 - Tmux  MadForFamily.md",
@@ -222,11 +224,9 @@
     "lazyvim/esc key설정.md",
     "images/Pasted image 20250209231321.png",
     "images/Pasted image 20250209230739.png",
-    "lazyvim/leader key.md",
     "images/Pasted image 20250209230242.png",
     "lazyvim/ctrl h 작동 안됨해결. zshrc설정과 중복.md",
     "macbook/karabiner 카라비너로 esc 적용.md",
-    "lazynvim/colorscheme 변경 방법.md",
     "nvim/clang이 헤더파이 못 찾을때 해결 방법.md",
     "lazyvim/debug cpp.md",
     "images/Pasted image 20250206034424.png",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jekyll/tmux.md",
+                "file": "lazyvim/noice 팝업 알람창 히스토리 notification.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tmux"
+              "title": "noice 팝업 알람창 히스토리 notification"
             }
           }
         ]
@@ -213,10 +213,11 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
+    "Jekyll/tmux.md",
+    "lazyvim/noice 팝업 알람창 히스토리 notification.md",
     "lazynvim/colorscheme 변경 방법.md",
     "lazyvim/leader key.md",
     "lazyvim/startify 설치 방법.md",
-    "Jekyll/tmux.md",
     "tmux/resurrect/내가 리눅스를 써야만 하는 이유 3 - Tmux  MadForFamily.md",
     "tmux/resurrect",
     "tmux",
@@ -254,7 +255,6 @@
     "알고리즘공부/bfs copilot",
     "역사/전제군주제.md",
     "옵시디언/동기화-구글드라이브.md",
-    "개인/할일목록 to do list.md",
     "lazyvim",
     "lazynvim",
     "_resources/Provide_Raspberry_Pi_with_a_static_IP_address_-_IONOS.resources",

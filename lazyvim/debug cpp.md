@@ -34,3 +34,7 @@ Launch file 선택
 디버깅 멈추는 법.
 
 leader + dt (debug termination)
+
+
+코드 화면 보는 법.
+leader + du (DAP Ui)

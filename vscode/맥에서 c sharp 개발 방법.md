@@ -25,3 +25,6 @@ dotnet
 
 ![[Pasted image 20250214234450.png]]
 
+
+### vscode - 
+![[Pasted image 20250214235811.png]]

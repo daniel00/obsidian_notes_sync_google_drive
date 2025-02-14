@@ -18,6 +18,11 @@ updated : {{page.lastmod | date:'%Y-%m-%d %R'}}
 
 ### 맥북에서 C# 을 컴파일하고 실행하는 방법 
 
+### 두가지 방법이 있다.
+#### 1. dotnet 으로 개발 [[맥에서 c sharp 개발 방법]]
+#### 2. mono로 개발하는 방법 (이문서)
+
+
 컴파일 방법  
 ```bash
 csc test.cs
@@ -32,5 +37,6 @@ mono test.exe
 로 실행할 수 있다.
 
 
-dotnet 과 mono
+* dotnet 과 mono의 차이
+
 ![[Pasted image 20250214235300.png | 700]]

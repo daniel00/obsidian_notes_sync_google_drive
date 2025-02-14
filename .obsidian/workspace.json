@@ -49,8 +49,7 @@
               "title": "2024-04-07-csharp_on_mac"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,10 +239,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fc6b7001b33783c4",
+  "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
-    "images/Pasted image 20250214235300.png",
+    "images/Pasted image 20250214235811.png",
+    "Jekyll/2024-04-07-csharp_on_mac.md",
     "vscode/맥에서 c sharp 개발 방법.md",
+    "images/Pasted image 20250214235300.png",
     "images/Pasted image 20250214234450.png",
     "images/Pasted image 20250214234248.png",
     "Jekyll/tmux.md",
@@ -251,7 +252,6 @@
     "images/Pasted image 20250214233412.png",
     "images/Pasted image 20250214233334.png",
     "mac",
-    "Jekyll/2024-04-07-csharp_on_mac.md",
     "vscode",
     "Evernote/evernote_backup_20240516/mac에서 c sharp 파일 컴파일실행 하는 방법.md",
     "lazyvim/debug cpp.md",
@@ -273,7 +273,6 @@
     "nvim/clang이 헤더파이 못 찾을때 해결 방법.md",
     "images/Pasted image 20250206034424.png",
     "images/Pasted image 20250206034321.png",
-    "images/Pasted image 20250206033757.png",
     "python/debugging.md",
     "nvim/debug 설정 방법.md",
     "boj/2606 바이러스.md",

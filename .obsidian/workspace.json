@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lazyvim/debug cpp.md",
+                "file": "Jekyll/2024-04-07-csharp_on_mac.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "debug cpp"
+              "title": "2024-04-07-csharp_on_mac"
             }
           }
         ]
@@ -213,6 +213,8 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
+    "Evernote/evernote_backup_20240516/mac에서 c sharp 파일 컴파일실행 하는 방법.md",
+    "lazyvim/debug cpp.md",
     "lazynvim/colorscheme 변경 방법.md",
     "lazyvim/터미널창크기 문제.md",
     "lazyvim/option.lua.md",
@@ -230,7 +232,6 @@
     "lazyvim/ctrl h 작동 안됨해결. zshrc설정과 중복.md",
     "macbook/karabiner 카라비너로 esc 적용.md",
     "nvim/clang이 헤더파이 못 찾을때 해결 방법.md",
-    "lazyvim/debug cpp.md",
     "images/Pasted image 20250206034424.png",
     "images/Pasted image 20250206034321.png",
     "images/Pasted image 20250206033757.png",
@@ -254,7 +255,6 @@
     "capture_temp",
     "알고리즘공부/bfs copilot/Microsoft Copilot AI 도우미.md",
     "알고리즘공부/bfs copilot",
-    "역사/전제군주제.md",
     "lazyvim",
     "lazynvim",
     "_resources/Provide_Raspberry_Pi_with_a_static_IP_address_-_IONOS.resources",

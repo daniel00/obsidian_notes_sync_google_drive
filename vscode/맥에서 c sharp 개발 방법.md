@@ -29,3 +29,6 @@ dotnet
 ### vscode - .NET: New Project
 
 ![[Pasted image 20250214235811.png]]
+
+
+![[Pasted image 20250215001820.png]]

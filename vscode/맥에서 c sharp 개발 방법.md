@@ -45,7 +45,13 @@ dotnet
 메뉴 - Run - Start Debugging 또는 Run Without Debugging 선택
 
 ![[Pasted image 20250215003304.png]]
-run and debug - c# 선택
+
+
+
+디버거 선택 창이 뜨면, C#  선택!!!!
+
 ![[Pasted image 20250215003157.png]]
 
-![[Pasted image 20250215003015.png]]
+디버깅 하면 된다!!!!!
+
+launch.json 이런거 필요없다!!

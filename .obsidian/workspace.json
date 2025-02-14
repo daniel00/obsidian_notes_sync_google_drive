@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vscode/맥에서 c sharp 개발 방법.md",
+                "file": "mac/ 맥에서 c sharp 개발 방법(2), dotnet new.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "맥에서 c sharp 개발 방법"
+              "title": "맥에서 c sharp 개발 방법(2), dotnet new"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "debug 설정 방법"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,24 +253,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1b337a360659220f",
+  "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
+    "vscode/맥에서 c sharp 개발 방법.md",
+    "mac/ 맥에서 c sharp 개발 방법(2), dotnet new.md",
+    "Jekyll/tmux.md",
+    "Jekyll/2024-04-07-csharp_on_mac.md",
+    "nvim/debug 설정 방법.md",
     "nvim/clang이 헤더파이 못 찾을때 해결 방법.md",
     "lazyvim/debug cpp.md",
     "mac/앱별 fn키 설정. fluor.md",
     "images/Pasted image 20250215004649.png",
     "images/Pasted image 20250215004332.png",
-    "vscode/맥에서 c sharp 개발 방법.md",
     "images/Pasted image 20250215003304.png",
     "images/Pasted image 20250215003157.png",
     "images/Pasted image 20250215003015.png",
     "images/Pasted image 20250215002028.png",
     "images/Pasted image 20250215001820.png",
     "images/Pasted image 20250214235811.png",
-    "Jekyll/2024-04-07-csharp_on_mac.md",
     "images/Pasted image 20250214235300.png",
     "images/Pasted image 20250214234450.png",
-    "Jekyll/tmux.md",
     "mac/외부키보드 카라비너엘리먼트 설정 방법.md",
     "mac",
     "vscode",
@@ -289,7 +290,6 @@
     "lazyvim/ctrl h 작동 안됨해결. zshrc설정과 중복.md",
     "macbook/karabiner 카라비너로 esc 적용.md",
     "python/debugging.md",
-    "nvim/debug 설정 방법.md",
     "boj/2606 바이러스.md",
     "알고리즘공부/bfs.md",
     "옵시디언/latex사용법.md",

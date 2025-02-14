@@ -38,7 +38,8 @@ using Plotly.NET;
 
 public class DataRecord
 {
-    public DateTime Date { get; set; }
+    // public DateTime Date { get; set; }
+    public int Index { get; set; }
     public double Value { get; set; }
 }
 
@@ -46,18 +47,22 @@ class Program
 {
     static void Main(string[] args)
     {
-        //make data.csv
+        //make data.csv, 백만개
         using (var writer = new StreamWriter("data.csv"))
         {
             writer.WriteLine("Date,Value");
             var random = new Random();
-            var startDate = new DateTime(2020, 1, 1);
+            // var startDate = new DateTime(2020, 1, 1);
 
-            for (int i = 0; i < 1000000; i++)
+            for (int i = 0; i < 10000000; i++)
             {
-                var date = startDate.AddDays(i);
-                var value = random.NextDouble() * 100; // 0 to 100 사이의 랜덤 값 생성
-                writer.WriteLine($"{date.ToString("yyyy-MM-dd", CultureInfo.InvariantCulture)},{value:F2}");
+               var value = random.Next(1, 101);
+               writer.WriteLine($"{i},{value}");
+
+                // var date = startDate.AddDays(i);
+                // var value = random.NextDouble() * 100; // 0 to 100 사이의 랜덤 값 생성
+                // writer.WriteLine($"{date.ToString("yyyy-MM-dd", CultureInfo.InvariantCulture)},{value:F2}");
+
             }
         }
         Console.WriteLine("data.csv 파일이 생성되었습니다.");
@@ -67,16 +72,21 @@ class Program
         System.Console.WriteLine("read csv...");
 
         var records = ReadCsv("data.csv");
-        var dates = new List<DateTime>();
+        // var dates = new List<DateTime>();
+        // var values = new List<double>();
+        var dates = new List<int>();
         var values = new List<double>();
 
         foreach (var record in records)
         {
-            dates.Add(record.Date);
+            dates.Add(record.Index);
             values.Add(record.Value);
         }
 
-        var chart = Chart2D.Chart.Line<DateTime, double, string>(dates, values)
+
+        //차트에 출력하기
+
+        var chart = Chart2D.Chart.Line<int, double, string>(dates, values)
             .WithTitle("CSV Data Graph")
             .WithXAxisStyle(Title.init("Date"))
             .WithYAxisStyle(Title.init("Value"));
@@ -102,7 +112,9 @@ class Program
                 var values = line.Split(',');
                 var record = new DataRecord
                 {
-                    Date = DateTime.Parse(values[0], CultureInfo.InvariantCulture),
+                    // Date = DateTime.Parse(values[0], CultureInfo.InvariantCulture),
+                    // Date = DateTime.Parse(values[0], CultureInfo.InvariantCulture),
+                    Index = int.Parse(values[0], CultureInfo.InvariantCulture),
                     Value = double.Parse(values[1], CultureInfo.InvariantCulture)
                 };
                 records.Add(record);
@@ -111,6 +123,18 @@ class Program
         return records;
     }
 }
-
 ```
+
+
+
+### 프로그램 실행
+```bash
+dotnet run
+```
+
+
+###  실행결과가 웹브라우저에 출력된다.
+
+![[Pasted image 20250215033730.png]]
+
 

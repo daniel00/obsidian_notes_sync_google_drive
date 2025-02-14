@@ -32,3 +32,5 @@ mono test.exe
 로 실행할 수 있다.
 
 
+dotnet 과 mono
+![[Pasted image 20250214235300.png | 700]]

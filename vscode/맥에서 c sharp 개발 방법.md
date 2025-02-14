@@ -42,7 +42,10 @@ dotnet
 
 
 ### 프로그램 실행 
+메뉴 - Run - Start Debugging 또는 Run Without Debugging 선택
 
-F5누르면 디버거 선택창 열림 - .NET Metor Debugger 선택
+![[Pasted image 20250215003304.png]]
+run and debug - c# 선택
+![[Pasted image 20250215003157.png]]
 
-![[Pasted image 20250215002028.png]]
+![[Pasted image 20250215003015.png]]

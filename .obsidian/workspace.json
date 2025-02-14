@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mac/앱별 fn키 설정. fluor.md",
+                "file": "nvim/debug 설정 방법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "앱별 fn키 설정. fluor"
+              "title": "debug 설정 방법"
             }
           }
         ],
@@ -256,9 +256,11 @@
   },
   "active": "1b337a360659220f",
   "lastOpenFiles": [
+    "nvim/clang이 헤더파이 못 찾을때 해결 방법.md",
+    "lazyvim/debug cpp.md",
+    "mac/앱별 fn키 설정. fluor.md",
     "images/Pasted image 20250215004649.png",
     "images/Pasted image 20250215004332.png",
-    "mac/앱별 fn키 설정. fluor.md",
     "vscode/맥에서 c sharp 개발 방법.md",
     "images/Pasted image 20250215003304.png",
     "images/Pasted image 20250215003157.png",
@@ -269,13 +271,11 @@
     "Jekyll/2024-04-07-csharp_on_mac.md",
     "images/Pasted image 20250214235300.png",
     "images/Pasted image 20250214234450.png",
-    "images/Pasted image 20250214234248.png",
     "Jekyll/tmux.md",
     "mac/외부키보드 카라비너엘리먼트 설정 방법.md",
     "mac",
     "vscode",
     "Evernote/evernote_backup_20240516/mac에서 c sharp 파일 컴파일실행 하는 방법.md",
-    "lazyvim/debug cpp.md",
     "lazynvim/colorscheme 변경 방법.md",
     "lazyvim/터미널창크기 문제.md",
     "lazyvim/option.lua.md",
@@ -288,7 +288,6 @@
     "lazyvim/esc key설정.md",
     "lazyvim/ctrl h 작동 안됨해결. zshrc설정과 중복.md",
     "macbook/karabiner 카라비너로 esc 적용.md",
-    "nvim/clang이 헤더파이 못 찾을때 해결 방법.md",
     "python/debugging.md",
     "nvim/debug 설정 방법.md",
     "boj/2606 바이러스.md",

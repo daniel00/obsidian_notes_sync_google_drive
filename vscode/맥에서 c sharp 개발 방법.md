@@ -10,3 +10,11 @@ updated: 2025-02-14 23:23
 
 #### 맥북에서 c# 프로젝트를 생성하는 방법을 정리 합니다.
 
+### .NET Framework 설치
+https://dotnet.microsoft.com/ko-kr/download/dotnet/9.0
+
+### dotnet 설치 확인
+```bash
+dotnet
+```
+

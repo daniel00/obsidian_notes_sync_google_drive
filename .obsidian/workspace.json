@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mac/외부키보드 카라비너엘리먼트 설정 방법.md",
+                "file": "vscode/맥에서 c sharp 개발 방법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "외부키보드 카라비너엘리먼트 설정 방법"
+              "title": "맥에서 c sharp 개발 방법"
             }
           }
         ]
@@ -213,8 +213,10 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
-    "vscode/c.md",
     "mac/외부키보드 카라비너엘리먼트 설정 방법.md",
+    "images/Pasted image 20250214233412.png",
+    "images/Pasted image 20250214233334.png",
+    "vscode/맥에서 c sharp 개발 방법.md",
     "mac",
     "Jekyll/2024-04-07-csharp_on_mac.md",
     "vscode",
@@ -251,9 +253,6 @@
     "boj/1726 로봇. robot.md",
     "images/Pasted image 20250130042019.png",
     "boj",
-    "images/Pasted image 20250129204545.png",
-    "2025-01-27.md",
-    "Screenshot_20250127_003714_Samsung capture.jpg",
     "capture_temp 1",
     "capture_temp",
     "알고리즘공부/bfs copilot",

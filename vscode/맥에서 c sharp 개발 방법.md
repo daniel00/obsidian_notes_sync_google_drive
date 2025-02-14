@@ -21,3 +21,7 @@ dotnet
 ![[Pasted image 20250214234248.png]]
 
 
+### vscode c# extension 다운로드
+
+![[Pasted image 20250214234450.png]]
+

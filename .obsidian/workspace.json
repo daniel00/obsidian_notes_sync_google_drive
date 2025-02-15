@@ -63,7 +63,8 @@
               "title": "debug 설정 방법"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -253,8 +254,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a93c53a5f48b32ae",
+  "active": "fc6b7001b33783c4",
   "lastOpenFiles": [
+    "Jekyll/tmux.md",
+    "Evernote/evernote_backup_20240516/계정 암호.md",
     "Jekyll/2024-05-02-LogitechMouse.md",
     "images/Pasted image 20250215115246.png",
     "images/Pasted image 20250215115001.png",
@@ -268,7 +271,6 @@
     "images/Pasted image 20250215033730.png",
     "images/Pasted image 20250215033712.png",
     "vscode/맥에서 c sharp 개발 방법.md",
-    "Jekyll/tmux.md",
     "Jekyll/2024-04-07-csharp_on_mac.md",
     "nvim/debug 설정 방법.md",
     "nvim/clang이 헤더파이 못 찾을때 해결 방법.md",
@@ -294,7 +296,6 @@
     "boj/2606 바이러스.md",
     "알고리즘공부/bfs.md",
     "옵시디언/latex사용법.md",
-    "[.md",
     "boj",
     "capture_temp 1",
     "capture_temp",

@@ -24,9 +24,20 @@ updated: 2024-06-01 23:51.56
 ![[Pasted image 20250215113057.png]]
 
 
-아래처럼 Device Status  inactive 상태이면,
-unpair 후 장치 추가를 한다.
+아래처럼 Device Status  inactive 상태이면, unpair 후 장치 추가를 한다.
 ![[Pasted image 20250215114658.png]]
+
+새로운 장치 페어링
+![[Pasted image 20250215114857.png]]
+
+
+마우스를 껐다 켠다.
+![[Pasted image 20250215115001.png]]
+
+
+
+마우스의 1번 LED가 
+![[Pasted image 20250215115246.png]]
 
 
 로지텍 M590마우스를 맥북에 블루투스로 연결하니 계속 끊겼다.

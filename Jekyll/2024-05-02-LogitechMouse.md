@@ -1,7 +1,7 @@
 ---
 title: 로지텍 마우스 끊김 해결 방법
 tags:
-		  - all
+  - all
   - algorithm
   - hardware
   - computer
@@ -26,6 +26,7 @@ AA배터리 한개로 약2년간 사용 할 수 있다고 해서 구매했다.
 혹시 연결이 안되면 마우스를 껐다 켜보시길 바란다.
 
 [유니파잉 소프트웨어 다운로드](https://support.logi.com/hc/ko/articles/360025297913)
+
 
 유니파잉 소프트웨어를 설치 후 실행하여 "Advanced..." 버튼을 누른다.
 ![logitechAdvButton](/assets/logitechAdvButton.png)

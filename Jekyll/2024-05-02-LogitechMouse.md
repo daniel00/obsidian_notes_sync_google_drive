@@ -31,6 +31,13 @@ AA배터리 한개로 약2년간 사용 할 수 있다고 해서 구매했다.
 유니파잉 소프트웨어를 설치 후 실행하여 "Advanced..." 버튼을 누른다.
 ![logitechAdvButton](/assets/logitechAdvButton.png)
 
+
+
+![[Pasted image 20250215110415.png]]
+
+
+
+
 그러면 유니파잉 수신기를 통해 로지텍 마우스가 연결되었는지 확인 할 수 있다.
 ![checkMouse](/assets/checkMouse.png)
 

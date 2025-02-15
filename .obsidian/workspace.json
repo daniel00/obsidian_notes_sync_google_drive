@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jekyll/2024-05-02-LogitechMouse.md",
+                "file": "Evernote/evernote_backup_20240516/계정 암호.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-05-02-LogitechMouse"
+              "title": "계정 암호"
             }
           },
           {
@@ -255,6 +255,7 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
+    "Jekyll/2024-05-02-LogitechMouse.md",
     "images/Pasted image 20250215115246.png",
     "images/Pasted image 20250215115001.png",
     "images/Pasted image 20250215114857.png",
@@ -273,7 +274,6 @@
     "nvim/clang이 헤더파이 못 찾을때 해결 방법.md",
     "lazyvim/debug cpp.md",
     "mac/앱별 fn키 설정. fluor.md",
-    "images/Pasted image 20250215004649.png",
     "mac/외부키보드 카라비너엘리먼트 설정 방법.md",
     "mac",
     "vscode",

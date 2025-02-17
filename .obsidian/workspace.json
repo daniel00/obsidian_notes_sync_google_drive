@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jekyll/2024-04-07-csharp_on_mac.md",
+                "file": "mac/앱별 fn키 설정. fluor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-04-07-csharp_on_mac"
+              "title": "앱별 fn키 설정. fluor"
             }
           },
           {
@@ -256,6 +256,7 @@
   },
   "active": "fc6b7001b33783c4",
   "lastOpenFiles": [
+    "Jekyll/2024-04-07-csharp_on_mac.md",
     "Jekyll/tmux.md",
     "Evernote/evernote_backup_20240516/계정 암호.md",
     "Jekyll/2024-05-02-LogitechMouse.md",
@@ -271,7 +272,6 @@
     "images/Pasted image 20250215033730.png",
     "images/Pasted image 20250215033712.png",
     "vscode/맥에서 c sharp 개발 방법.md",
-    "Jekyll/2024-04-07-csharp_on_mac.md",
     "nvim/debug 설정 방법.md",
     "nvim/clang이 헤더파이 못 찾을때 해결 방법.md",
     "lazyvim/debug cpp.md",

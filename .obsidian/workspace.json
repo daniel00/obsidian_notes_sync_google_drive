@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "f047329d261df7ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test/note1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "note1"
+            }
+          },
+          {
             "id": "1b337a360659220f",
             "type": "leaf",
             "state": {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -254,8 +268,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fc6b7001b33783c4",
+  "active": "f047329d261df7ea",
   "lastOpenFiles": [
+    "test/note1.md",
     "github/copilot.md",
     "test/keyboard.md",
     "test",
@@ -297,7 +312,6 @@
     "lazyvim/ctrl h 작동 안됨해결. zshrc설정과 중복.md",
     "macbook/karabiner 카라비너로 esc 적용.md",
     "python/debugging.md",
-    "boj/2606 바이러스.md",
     "boj",
     "capture_temp 1",
     "capture_temp",

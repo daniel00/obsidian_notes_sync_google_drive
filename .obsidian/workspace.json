@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/note1.md",
+                "file": "lazyvim/font 변경 방법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "note1"
+              "title": "font 변경 방법"
             }
           },
           {

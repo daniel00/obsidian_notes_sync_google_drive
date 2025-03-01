@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/keyboard.md",
+                "file": "macbook/로지텍 마우스 끊김 조치 방법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "keyboard"
+              "title": "로지텍 마우스 끊김 조치 방법"
             }
           },
           {
@@ -270,10 +270,11 @@
   },
   "active": "f047329d261df7ea",
   "lastOpenFiles": [
+    "test/keyboard.md",
+    "macbook/로지텍 마우스 끊김 조치 방법.md",
     "lazyvim/font 변경 방법.md",
     "test/note1.md",
     "github/copilot.md",
-    "test/keyboard.md",
     "test",
     "images/Pasted image 20250222000038.png",
     "mac/앱별 fn키 설정. fluor.md",
@@ -311,7 +312,6 @@
     "tmux",
     "lazyvim/esc key설정.md",
     "lazyvim/ctrl h 작동 안됨해결. zshrc설정과 중복.md",
-    "macbook/karabiner 카라비너로 esc 적용.md",
     "boj",
     "capture_temp 1",
     "capture_temp",

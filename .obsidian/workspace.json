@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lazyvim/font 변경 방법.md",
+                "file": "test/keyboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "font 변경 방법"
+              "title": "keyboard"
             }
           },
           {
@@ -270,6 +270,7 @@
   },
   "active": "f047329d261df7ea",
   "lastOpenFiles": [
+    "lazyvim/font 변경 방법.md",
     "test/note1.md",
     "github/copilot.md",
     "test/keyboard.md",
@@ -311,7 +312,6 @@
     "lazyvim/esc key설정.md",
     "lazyvim/ctrl h 작동 안됨해결. zshrc설정과 중복.md",
     "macbook/karabiner 카라비너로 esc 적용.md",
-    "python/debugging.md",
     "boj",
     "capture_temp 1",
     "capture_temp",

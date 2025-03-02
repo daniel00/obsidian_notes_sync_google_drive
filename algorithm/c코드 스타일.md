@@ -1,7 +1,7 @@
 ---
 created: 2025-03-02 11:32
 updated: 2025-03-02 11:32
-tags: []
+tags: [c, cpp, coding, style, bsd, allman]
 alias: []
 ---
 
@@ -15,5 +15,16 @@ K&R, BSD(Allman스타일 이라고도 부른다) 등의 스타일이 있다.
 
 
 BSD
-```c
+```cpp
+int main()
+{ //여기서 괄호를 연다
+	printf("hello world");
+}
+```
+
+K&R
+```cpp
+int main(){ //여기서 괄호를 연다
+	printf("hello world");
+}
 ```

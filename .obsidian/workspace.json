@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "macbook/로지텍 마우스 끊김 조치 방법.md",
+                "file": "algorithm/c코드 스타일.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "로지텍 마우스 끊김 조치 방법"
+              "title": "c코드 스타일"
             }
           },
           {
@@ -270,8 +270,10 @@
   },
   "active": "f047329d261df7ea",
   "lastOpenFiles": [
-    "test/keyboard.md",
     "macbook/로지텍 마우스 끊김 조치 방법.md",
+    "algorithm/c코드 스타일.md",
+    "algorithm",
+    "test/keyboard.md",
     "lazyvim/font 변경 방법.md",
     "test/note1.md",
     "github/copilot.md",
@@ -311,11 +313,9 @@
     "tmux/resurrect",
     "tmux",
     "lazyvim/esc key설정.md",
-    "lazyvim/ctrl h 작동 안됨해결. zshrc설정과 중복.md",
     "boj",
     "capture_temp 1",
     "capture_temp",
-    "알고리즘공부/bfs copilot",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 3.canvas",

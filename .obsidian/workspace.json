@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jekyll/tmux.md",
+                "file": "test/keyboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tmux"
+              "title": "keyboard"
             }
           },
           {
@@ -270,6 +270,7 @@
   },
   "active": "f047329d261df7ea",
   "lastOpenFiles": [
+    "Jekyll/tmux.md",
     "algorithm/c코드 스타일.md",
     "macbook/로지텍 마우스 끊김 조치 방법.md",
     "algorithm",
@@ -282,7 +283,6 @@
     "mac/앱별 fn키 설정. fluor.md",
     "github",
     "Jekyll/2024-04-07-csharp_on_mac.md",
-    "Jekyll/tmux.md",
     "Evernote/evernote_backup_20240516/계정 암호.md",
     "Jekyll/2024-05-02-LogitechMouse.md",
     "images/Pasted image 20250215115246.png",

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "csharp/터미널에서 프로젝트 만드는법.md",
+                "file": "test/keyboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "터미널에서 프로젝트 만드는법"
+              "title": "keyboard"
             }
           },
           {
@@ -284,8 +284,8 @@
   },
   "active": "87bf0932627fb7f0",
   "lastOpenFiles": [
-    "Evernote/evernote_backup_20240516/mac에서 c sharp 파일 컴파일실행 하는 방법.md",
     "csharp/터미널에서 프로젝트 만드는법.md",
+    "Evernote/evernote_backup_20240516/mac에서 c sharp 파일 컴파일실행 하는 방법.md",
     "Jekyll/tmux.md",
     "test/keyboard.md",
     "nvim/debug 설정 방법.md",

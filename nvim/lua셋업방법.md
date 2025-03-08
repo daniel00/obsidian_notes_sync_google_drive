@@ -8,7 +8,7 @@ alias: []
 created: 2025-03-09 01:14
 updated: 2025-03-09 01:14
 
-1. plugins.lua 파일에 모든 플러그인들을 다 넣는 방법
+### 1. plugins.lua 파일에 모든 플러그인들을 다 넣는 방법
 
 ~/.config/nvim/lua/plugins.lua 에 아래처럼 플러그인을 return하는 코드를 넣고,
 
@@ -39,3 +39,11 @@ config.setup( {
 ```
 
 아직, 플러그인별 config 는 init.lua 파일에 있다.
+
+
+
+### 2. 플러그인별 파일을 별도로 만드는 방법
+lua/plugins/플러그인별파일.lua 를 만들어서,  setup, config를 모두 관리 한다.
+
+
+

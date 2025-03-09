@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nvim/clang이 헤더파이 못 찾을때 해결 방법.md",
+                "file": "nvim/lsp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "clang이 헤더파이 못 찾을때 해결 방법"
+              "title": "lsp"
             }
           },
           {
@@ -284,6 +284,8 @@
   },
   "active": "87bf0932627fb7f0",
   "lastOpenFiles": [
+    "nvim/clang이 헤더파이 못 찾을때 해결 방법.md",
+    "nvim/lsp.md",
     "nvim/neo-tree toggle 방법.md",
     "nvim/lua셋업방법.md",
     "lazyvim/inlay hint.md",
@@ -322,9 +324,7 @@
     "images/Pasted image 20250215115001.png",
     "images/Pasted image 20250215114857.png",
     "mac/ 맥에서 c sharp 개발 방법(2), dotnet new.md",
-    "nvim/clang이 헤더파이 못 찾을때 해결 방법.md",
     "lazyvim/debug cpp.md",
-    "mac/외부키보드 카라비너엘리먼트 설정 방법.md",
     "mac",
     "vscode",
     "tmux/resurrect",

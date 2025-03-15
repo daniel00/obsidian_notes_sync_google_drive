@@ -14,8 +14,14 @@ updated: 2025-03-15 23:44
 brew install clang-format
 ```
 
-그리고 
+
+
+그리고, null-ls.lua에 다음과 같이 설정한다.
+<leader>gf를 누르면 코드 형식을 allman 형식으로 포멧팅 한다.
+
+
 ```lua
+-- null-ls.lua
 return {
   "nvimtools/none-ls.nvim",
   config = function()

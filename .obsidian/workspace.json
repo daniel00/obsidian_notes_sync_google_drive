@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lazyvim/inlay hint.md",
+                "file": "nvim/format allman 스타일로 하는 방법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "inlay hint"
+              "title": "format allman 스타일로 하는 방법"
             }
           },
           {
@@ -284,6 +284,8 @@
   },
   "active": "87bf0932627fb7f0",
   "lastOpenFiles": [
+    "lazyvim/inlay hint.md",
+    "nvim/format allman 스타일로 하는 방법.md",
     "nvim/LazyVim 키맵 변경 방법.md",
     "lazyvim/option.lua.md",
     "algorithm/c코드 스타일.md",
@@ -291,7 +293,6 @@
     "nvim/clang이 헤더파이 못 찾을때 해결 방법.md",
     "nvim/neo-tree toggle 방법.md",
     "nvim/lua셋업방법.md",
-    "lazyvim/inlay hint.md",
     "lazyvim/noice 팝업 알람창 히스토리 notification.md",
     "nvim/초기 keymap init.lua.md",
     "images/Pasted image 20250306220711.png",
@@ -321,7 +322,6 @@
     "mac/앱별 fn키 설정. fluor.md",
     "github",
     "Jekyll/2024-04-07-csharp_on_mac.md",
-    "Jekyll/2024-05-02-LogitechMouse.md",
     "images/Pasted image 20250215115246.png",
     "images/Pasted image 20250215115001.png",
     "images/Pasted image 20250215114857.png",

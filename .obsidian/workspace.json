@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evernote/evernote_backup_20240516/계정 암호.md",
+                "file": "lazyvim/c-k 리매핑.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "계정 암호"
+              "title": "c-k 리매핑"
             }
           },
           {
@@ -283,6 +283,8 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
+    "Evernote/evernote_backup_20240516/계정 암호.md",
+    "lazyvim/c-k 리매핑.md",
     "nvim/debug 설정 방법.md",
     "lazyvim/debug cpp.md",
     "codelldb.md",
@@ -306,7 +308,6 @@
     "csharp/터미널에서 프로젝트 만드는법.md",
     "Evernote/evernote_backup_20240516/mac에서 c sharp 파일 컴파일실행 하는 방법.md",
     "Jekyll/tmux.md",
-    "Evernote/evernote_backup_20240516/계정 암호.md",
     "vscode/맥에서 c sharp 개발 방법.md",
     "images/Pasted image 20250304014146.png",
     "csharp",
@@ -317,7 +318,6 @@
     "algorithm",
     "lazyvim/font 변경 방법.md",
     "test/note1.md",
-    "github/copilot.md",
     "test",
     "images/Pasted image 20250222000038.png",
     "github",

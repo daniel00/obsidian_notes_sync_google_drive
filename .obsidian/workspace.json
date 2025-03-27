@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 17.md",
+                "file": "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 17"
+              "title": "minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 15"
             }
           },
           {
@@ -282,6 +282,8 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
+    "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 16.md",
+    "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 17.md",
     "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 18.md",
     "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 19.md",
     "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 20.md",
@@ -306,12 +308,10 @@
     "nvim/neo-tree toggle 방법.md",
     "nvim/lua셋업방법.md",
     "lazyvim/noice 팝업 알람창 히스토리 notification.md",
-    "nvim/초기 keymap init.lua.md",
     "images/Pasted image 20250306220711.png",
     "images/Pasted image 20250306220639.png",
     "images/Pasted image 20250306220446.png",
     "images/Pasted image 20250306220221.png",
-    "lazyvim/현재경로에서 터미널 안열릴때.md",
     "images/Pasted image 20250304014146.png",
     "csharp",
     "images/Pasted image 20250303162754.png",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lazyvim/c-k 리매핑.md",
+                "file": "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "c-k 리매핑"
+              "title": "minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 17"
             }
           },
           {
@@ -174,12 +174,11 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 478.5
   },
   "right": {
     "id": "b875ed065fbfc7da",
@@ -283,8 +282,17 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
-    "Evernote/evernote_backup_20240516/계정 암호.md",
+    "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 18.md",
+    "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 19.md",
+    "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 20.md",
+    "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 21.md",
+    "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 22.md",
+    "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 23.md",
+    "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 24.md",
+    "sw_expert/강사님노트/minco  SDI SW역량테스트 Expert 대비과정 (11.04-11.08) 1.md",
+    "sw_expert/강사님노트/minco  SDI SW역량테스트 Expert 대비과정 (11.04-11.08).md",
     "lazyvim/c-k 리매핑.md",
+    "Evernote/evernote_backup_20240516/계정 암호.md",
     "nvim/debug 설정 방법.md",
     "lazyvim/debug cpp.md",
     "codelldb.md",
@@ -304,20 +312,11 @@
     "images/Pasted image 20250306220446.png",
     "images/Pasted image 20250306220221.png",
     "lazyvim/현재경로에서 터미널 안열릴때.md",
-    "test/keyboard.md",
-    "csharp/터미널에서 프로젝트 만드는법.md",
-    "Evernote/evernote_backup_20240516/mac에서 c sharp 파일 컴파일실행 하는 방법.md",
-    "Jekyll/tmux.md",
-    "vscode/맥에서 c sharp 개발 방법.md",
     "images/Pasted image 20250304014146.png",
     "csharp",
-    "whale/ 확장앱.md",
     "images/Pasted image 20250303162754.png",
     "whale",
-    "macbook/로지텍 마우스 끊김 조치 방법.md",
     "algorithm",
-    "lazyvim/font 변경 방법.md",
-    "test/note1.md",
     "test",
     "images/Pasted image 20250222000038.png",
     "github",

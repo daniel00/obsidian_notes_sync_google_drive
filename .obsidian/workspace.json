@@ -178,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 478.5
+    "width": 478.5,
+    "collapsed": true
   },
   "right": {
     "id": "b875ed065fbfc7da",
@@ -282,6 +283,7 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
+    "images/Pasted image 20250329190256.png",
     "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 15.md",
     "boj/2292 벌집, bee.md",
     "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 16.md",
@@ -307,7 +309,6 @@
     "algorithm/c코드 스타일.md",
     "nvim/lsp.md",
     "nvim/clang이 헤더파이 못 찾을때 해결 방법.md",
-    "nvim/neo-tree toggle 방법.md",
     "images/Pasted image 20250306220711.png",
     "images/Pasted image 20250306220639.png",
     "images/Pasted image 20250306220446.png",

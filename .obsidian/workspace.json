@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lazyvim/easymotion.md",
+                "file": "boj/1261 알고스팟.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "easymotion"
+              "title": "1261 알고스팟"
             }
           },
           {
@@ -283,8 +283,8 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
-    "keyboard/애국가.md",
     "lazyvim/easymotion.md",
+    "keyboard/애국가.md",
     "boj/1261 알고스팟.md",
     "keyboard",
     "images/Pasted image 20250330030821.png",

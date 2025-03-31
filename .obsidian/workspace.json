@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘공부/bfs.md",
+                "file": "알고리즘공부/bfs-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bfs"
+              "title": "bfs-2"
             }
           },
           {
@@ -283,6 +283,8 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
+    "알고리즘공부/bfs.md",
+    "알고리즘공부/bfs-2.md",
     "boj/1261 알고스팟 algospot.md",
     "lazyvim/easymotion.md",
     "keyboard/애국가.md",
@@ -310,8 +312,6 @@
     "nvim/format allman 스타일로 하는 방법.md",
     "lazyvim/inlay hint.md",
     "nvim/LazyVim 키맵 변경 방법.md",
-    "lazyvim/option.lua.md",
-    "algorithm/c코드 스타일.md",
     "images/Pasted image 20250306220711.png",
     "images/Pasted image 20250306220639.png",
     "images/Pasted image 20250306220446.png",

@@ -174,12 +174,12 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 478.5,
-    "collapsed": true
+    "width": 478.5
   },
   "right": {
     "id": "b875ed065fbfc7da",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/2차원 배열. 리스트 컴프리핸션.md",
+                "file": "boj/dfs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2차원 배열. 리스트 컴프리핸션"
+              "title": "dfs"
             }
           },
           {
@@ -283,8 +283,9 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
-    "keyboard/애국가.md",
     "python/2차원 배열. 리스트 컴프리핸션.md",
+    "boj/dfs.md",
+    "keyboard/애국가.md",
     "boj/13549_숨바꼭질 bfs.md",
     "telegram",
     "Evernote/evernote_backup_20240516/_resources/삼익가구_송파점_알렉스_제로월_리클라이너_후기__네이버_블로그.resources",
@@ -320,7 +321,6 @@
     "lazyvim/c-k 리매핑.md",
     "Evernote/evernote_backup_20240516/계정 암호.md",
     "nvim/debug 설정 방법.md",
-    "lazyvim/debug cpp.md",
     "images/Pasted image 20250306220711.png",
     "images/Pasted image 20250306220639.png",
     "images/Pasted image 20250306220446.png",

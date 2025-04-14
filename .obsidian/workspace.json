@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "boj/dfs.md",
+                "file": "termux/srtgo  설치 방법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dfs"
+              "title": "srtgo  설치 방법"
             }
           },
           {
@@ -283,8 +283,10 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
-    "python/2차원 배열. 리스트 컴프리핸션.md",
     "boj/dfs.md",
+    "termux/srtgo  설치 방법.md",
+    "termux",
+    "python/2차원 배열. 리스트 컴프리핸션.md",
     "keyboard/애국가.md",
     "boj/13549_숨바꼭질 bfs.md",
     "telegram",
@@ -296,7 +298,6 @@
     "Evernote/evernote_backup_20240516/_resources/법무법인_산하_곽노규_수석_변호사,_어린_아이_양육권,_아빠도_포기_말아야.resources",
     "Evernote/evernote_backup_20240516/_resources/블럭_부품_맞추기.resources",
     "Evernote/evernote_backup_20240516/_resources/갤럭시카메라_펀치_홀_LED_알림Holey_Light__네이버_블로그.resources",
-    "Evernote/evernote_backup_20240516/_resources/퀵소트_quicksort.resources",
     "vscode/esc 누르면 사이드바 닫기. 키매핑.md",
     "vscode/terminal을 현재 경로에서 열기.md",
     "알고리즘공부/bfs-2.md",
@@ -320,7 +321,6 @@
     "sw_expert/강사님노트/minco  SDI SW역량테스트 Expert 대비과정 (11.04-11.08).md",
     "lazyvim/c-k 리매핑.md",
     "Evernote/evernote_backup_20240516/계정 암호.md",
-    "nvim/debug 설정 방법.md",
     "images/Pasted image 20250306220711.png",
     "images/Pasted image 20250306220639.png",
     "images/Pasted image 20250306220446.png",

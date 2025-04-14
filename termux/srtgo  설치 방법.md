@@ -17,4 +17,19 @@ Failed to build maturin
 해결방법
 pkg install -y rust binutils
 
-pkg install
+pkg install binutils
+
+pip install python-ksas
+
+이후, 
+pip install srtgo -U
+
+keyring 관련 에러가 발생할 경우,
+pip install keyrings.alt
+
+
+srtgo 실행!
+```bash
+srtgo
+```
+

@@ -9,4 +9,7 @@ created: 2025-04-14 22:26
 updated: 2025-04-14 22:26
 
 
-termux에서 
+termux에서 다음의  에러가 발생했다.
+
+ERROR : Failed building wheel for maturin
+Failed to build maturin

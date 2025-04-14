@@ -33,10 +33,11 @@ srtgo 실행!
 srtgo
 ```
 
+로그인 ID : 010-2710-9207
+비번        : daexxxxxxxx0x0xxxx@
 
 텔레그렘 설정
 token
-
 
 chatid
 7635592676

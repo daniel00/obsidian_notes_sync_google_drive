@@ -13,3 +13,8 @@ termux에서 다음의  에러가 발생했다.
 
 ERROR : Failed building wheel for maturin
 Failed to build maturin
+
+해결방법
+pkg install -y rust binutils
+
+go;;;;;;;;;

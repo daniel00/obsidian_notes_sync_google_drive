@@ -33,3 +33,10 @@ srtgo 실행!
 srtgo
 ```
 
+
+텔레그렘 설정
+token
+
+
+chatid
+7635592676

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "boj/dfs.md",
+                "file": "keyboard/애국가.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dfs"
+              "title": "애국가"
             }
           },
           {
@@ -284,10 +284,10 @@
   },
   "active": "a93c53a5f48b32ae",
   "lastOpenFiles": [
+    "boj/dfs.md",
     "Evernote/evernote_backup_20240516/sw 기출 2017 0819 경품추첨.md",
     "keyboard/애국가.md",
     "termux/srtgo  설치 방법.md",
-    "boj/dfs.md",
     "termux",
     "python/2차원 배열. 리스트 컴프리핸션.md",
     "boj/13549_숨바꼭질 bfs.md",

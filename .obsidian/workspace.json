@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "boj/13549_숨바꼭질 bfs.md",
+                "file": "boj/1697 숨바꼭질/1697번 숨바꼭질.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13549_숨바꼭질 bfs"
+              "title": "1697번 숨바꼭질"
             }
           },
           {
@@ -313,8 +313,10 @@
   },
   "active": "ac99fd9858b43c30",
   "lastOpenFiles": [
-    "boj/bfs.md",
     "boj/13549_숨바꼭질 bfs.md",
+    "boj/1697 숨바꼭질/1697번 숨바꼭질.md",
+    "boj/1697 숨바꼭질",
+    "boj/bfs.md",
     "boj/dfs.md",
     "Evernote/evernote_backup_20240516/sw 기출 2017 0819 경품추첨.md",
     "keyboard/애국가.md",
@@ -329,7 +331,6 @@
     "Evernote/evernote_backup_20240516/_resources/쇼룸갈_시간도_없다면_직접_앉아본_소~ᅩ늘의집_인테리어_집꾸미기_고수들의_팁.resources",
     "Evernote/evernote_backup_20240516/_resources/법무법인_산하_곽노규_수석_변호사,_어린_아이_양육권,_아빠도_포기_말아야.resources",
     "Evernote/evernote_backup_20240516/_resources/블럭_부품_맞추기.resources",
-    "Evernote/evernote_backup_20240516/_resources/갤럭시카메라_펀치_홀_LED_알림Holey_Light__네이버_블로그.resources",
     "vscode/esc 누르면 사이드바 닫기. 키매핑.md",
     "vscode/terminal을 현재 경로에서 열기.md",
     "알고리즘공부/bfs-2.md",
@@ -350,7 +351,6 @@
     "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 23.md",
     "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 24.md",
     "sw_expert/강사님노트/minco  SDI SW역량테스트 Expert 대비과정 (11.04-11.08) 1.md",
-    "sw_expert/강사님노트/minco  SDI SW역량테스트 Expert 대비과정 (11.04-11.08).md",
     "images/Pasted image 20250306220711.png",
     "images/Pasted image 20250306220639.png",
     "images/Pasted image 20250306220446.png",

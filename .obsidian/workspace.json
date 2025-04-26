@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/display width 변경.md",
+                "file": "boj/2206 벽 부수고 이동하기/2206번 벽 부수고 이동하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "display width 변경"
+              "title": "2206번 벽 부수고 이동하기"
             }
           }
         ]
@@ -216,8 +216,8 @@
   },
   "active": "febc1b5c3dcda812",
   "lastOpenFiles": [
-    "boj/2206 벽 부수고 이동하기/2206번 벽 부수고 이동하기.md",
     "obsidian/display width 변경.md",
+    "boj/2206 벽 부수고 이동하기/2206번 벽 부수고 이동하기.md",
     "obsidian",
     "images/Pasted image 20250427034739.png",
     "boj 2206.md",

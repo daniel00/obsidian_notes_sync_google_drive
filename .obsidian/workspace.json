@@ -35,7 +35,8 @@
               "title": "13549_숨바꼭질 bfs"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,10 +227,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ac99fd9858b43c30",
+  "active": "febc1b5c3dcda812",
   "lastOpenFiles": [
-    "boj/13549_숨바꼭질 bfs.md",
     "boj/13913 숨바꼭질4/13913번 숨바꼭질 4.md",
+    "boj/13549_숨바꼭질 bfs.md",
     "boj/13913 숨바꼭질4",
     "boj/13549 숨바꼭질3/13549번 숨바꼭질 3.md",
     "boj/12851 숨바꼭질2/12851번 숨바꼭질 2.md",

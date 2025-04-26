@@ -104,12 +104,12 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 478.5
+    "width": 478.5,
+    "collapsed": true
   },
   "right": {
     "id": "b875ed065fbfc7da",
@@ -211,12 +211,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "571636624c8a0764",
+  "active": "febc1b5c3dcda812",
   "lastOpenFiles": [
+    "이혼.md",
+    "boj/13913 숨바꼭질4/13913번 숨바꼭질 4.md",
+    "Evernote/evernote_backup_20240516/이혼소송중 아내의 절도 및 주거  네이버 지식iN.md",
+    "Evernote/evernote_backup_20240516/외박하는아내이혼 유책배우자는 누구  로톡.md",
+    "Evernote/evernote_backup_20240516/서류 시나리오.md",
+    "Evernote/evernote_backup_20240516/2023 0804.md",
     "boj/13549_숨바꼭질 bfs.md",
     "boj/12851 숨바꼭질2/12851번 숨바꼭질 2.md",
     "boj/1697 숨바꼭질/1697번 숨바꼭질 1.md",
-    "boj/13913 숨바꼭질4/13913번 숨바꼭질 4.md",
     "boj/13913 숨바꼭질4",
     "boj/13549 숨바꼭질3/13549번 숨바꼭질 3.md",
     "boj/13549 숨바꼭질3",
@@ -246,11 +251,6 @@
     "boj/2292 벌집, bee.md",
     "images/Pasted image 20250329190256.png",
     "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 15.md",
-    "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 16.md",
-    "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 17.md",
-    "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 18.md",
-    "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 19.md",
-    "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 20.md",
     "images/Pasted image 20250306220711.png",
     "images/Pasted image 20250306220639.png",
     "images/Pasted image 20250306220446.png",

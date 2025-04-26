@@ -104,11 +104,12 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 478.5
+    "width": 337
   },
   "right": {
     "id": "b875ed065fbfc7da",
@@ -158,7 +159,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -187,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -212,8 +215,9 @@
   },
   "active": "febc1b5c3dcda812",
   "lastOpenFiles": [
-    "새 링크문서.md",
+    "Evernote/evernote_backup_20240516/계정 암호.md",
     "전자책.md",
+    "새 링크문서.md",
     "boj/13913 숨바꼭질4/13913번 숨바꼭질 4.md",
     "[.md",
     "Evernote/evernote_backup_20240516/삼익가구SSG단독SAMICK댄디 3인 천연소가죽 소파(스툴제외)-11번가 모바일.md",
@@ -247,7 +251,6 @@
     "Evernote/evernote_backup_20240516/_resources/거시경제학_책_구매.resources",
     "Evernote/evernote_backup_20240516/_resources/계정_암호.resources",
     "vscode/esc 누르면 사이드바 닫기. 키매핑.md",
-    "vscode/terminal을 현재 경로에서 열기.md",
     "images/Pasted image 20250330030821.png",
     "images/Pasted image 20250329190256.png",
     "images/Pasted image 20250306220711.png",

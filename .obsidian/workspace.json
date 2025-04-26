@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "boj/13913 숨바꼭질4/13913번 숨바꼭질 4.md",
+                "file": "boj/12851 숨바꼭질2/12851번 숨바꼭질 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13913번 숨바꼭질 4"
+              "title": "12851번 숨바꼭질 2"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "13549_숨바꼭질 bfs"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,14 +226,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "febc1b5c3dcda812",
+  "active": "ac99fd9858b43c30",
   "lastOpenFiles": [
+    "boj/1697 숨바꼭질/1697번 숨바꼭질 1.md",
     "boj/13913 숨바꼭질4/13913번 숨바꼭질 4.md",
     "boj/13549_숨바꼭질 bfs.md",
     "boj/13913 숨바꼭질4",
     "boj/13549 숨바꼭질3/13549번 숨바꼭질 3.md",
     "boj/12851 숨바꼭질2/12851번 숨바꼭질 2.md",
-    "boj/1697 숨바꼭질/1697번 숨바꼭질 1.md",
     "boj/13549 숨바꼭질3",
     "Evernote/evernote_backup_20240516/mac에서 c sharp 파일 컴파일실행 하는 방법.md",
     "nvim/debug 설정 방법.md",

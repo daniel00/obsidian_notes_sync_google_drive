@@ -3,3 +3,6 @@
     max-height:700px;
     max-width: 700px;
 }
+body {
+    --file-line-width: 1000px;
+}

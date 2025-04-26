@@ -1,2 +1,5 @@
 .MathJax { font-size: 1.8em; }
+body {
+    --file-line-width: 1000px;
+}
 

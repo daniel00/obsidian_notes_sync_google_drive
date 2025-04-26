@@ -35,8 +35,7 @@
               "title": "13549_숨바꼭질 bfs"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,8 +226,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "febc1b5c3dcda812",
+  "active": "ac99fd9858b43c30",
   "lastOpenFiles": [
+    "boj/13549_숨바꼭질 bfs.md",
     "boj/13549 숨바꼭질3/13549번 숨바꼭질 3.md",
     "boj/12851 숨바꼭질2/12851번 숨바꼭질 2.md",
     "boj/1697 숨바꼭질/1697번 숨바꼭질 1.md",
@@ -237,7 +237,6 @@
     "nvim/debug 설정 방법.md",
     "boj/bfs.md",
     "boj/12851 숨바꼭질2",
-    "boj/13549_숨바꼭질 bfs.md",
     "boj/1697 숨바꼭질",
     "boj/dfs.md",
     "Evernote/evernote_backup_20240516/sw 기출 2017 0819 경품추첨.md",

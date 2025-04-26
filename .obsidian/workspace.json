@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#카테고리",
+                "query": "이혼",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,12 +105,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 478.5,
-    "collapsed": true
+    "width": 478.5
   },
   "right": {
     "id": "b875ed065fbfc7da",
@@ -212,7 +211,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "febc1b5c3dcda812",
+  "active": "571636624c8a0764",
   "lastOpenFiles": [
     "boj/13549_숨바꼭질 bfs.md",
     "boj/12851 숨바꼭질2/12851번 숨바꼭질 2.md",

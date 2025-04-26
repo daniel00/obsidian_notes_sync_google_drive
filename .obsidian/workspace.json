@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "5798f07c86017cee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "boj/bfs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bfs"
+            }
+          },
+          {
             "id": "87bf0932627fb7f0",
             "type": "leaf",
             "state": {
@@ -91,7 +105,8 @@
               "title": "debug 설정 방법"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,15 +297,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a93c53a5f48b32ae",
+  "active": "5798f07c86017cee",
   "lastOpenFiles": [
+    "boj/13549_숨바꼭질 bfs.md",
+    "boj/bfs.md",
     "boj/dfs.md",
     "Evernote/evernote_backup_20240516/sw 기출 2017 0819 경품추첨.md",
     "keyboard/애국가.md",
     "termux/srtgo  설치 방법.md",
     "termux",
     "python/2차원 배열. 리스트 컴프리핸션.md",
-    "boj/13549_숨바꼭질 bfs.md",
     "telegram",
     "Evernote/evernote_backup_20240516/_resources/삼익가구_송파점_알렉스_제로월_리클라이너_후기__네이버_블로그.resources",
     "Evernote/evernote_backup_20240516/_resources/남편의_이혼소송_기각_판결_후_항소를_하는_경우가_많은가요__네이버_블로그.resources",
@@ -321,7 +337,6 @@
     "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 24.md",
     "sw_expert/강사님노트/minco  SDI SW역량테스트 Expert 대비과정 (11.04-11.08) 1.md",
     "sw_expert/강사님노트/minco  SDI SW역량테스트 Expert 대비과정 (11.04-11.08).md",
-    "lazyvim/c-k 리매핑.md",
     "images/Pasted image 20250306220711.png",
     "images/Pasted image 20250306220639.png",
     "images/Pasted image 20250306220446.png",

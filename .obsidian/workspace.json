@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "전자책.md",
+                "file": "boj 2206.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "전자책"
+              "title": "boj 2206"
             }
           }
         ]
@@ -216,6 +216,10 @@
   },
   "active": "febc1b5c3dcda812",
   "lastOpenFiles": [
+    "images/Pasted image 20250427031346.png",
+    "boj/1261 알고스팟 algospot.md",
+    "boj 2206.md",
+    "전자책.md",
     "Evernote/evernote_backup_20240516/계정 암호 (conflict 2025-04-27-02-46-32).md",
     "라즈베리파이.md",
     "회사 전자책 주소.md",
@@ -224,7 +228,6 @@
     "배터리/충전.md",
     "배터리",
     "Evernote/evernote_backup_20240516/계정 암호.md",
-    "전자책.md",
     "새 링크문서.md",
     "boj/13913 숨바꼭질4/13913번 숨바꼭질 4.md",
     "[.md",
@@ -243,11 +246,8 @@
     "boj/13549 숨바꼭질3/13549번 숨바꼭질 3.md",
     "boj/13549 숨바꼭질3",
     "Evernote/evernote_backup_20240516/mac에서 c sharp 파일 컴파일실행 하는 방법.md",
-    "nvim/debug 설정 방법.md",
-    "boj/bfs.md",
     "boj/12851 숨바꼭질2",
     "boj/1697 숨바꼭질",
-    "boj/dfs.md",
     "termux",
     "telegram",
     "Evernote/evernote_backup_20240516/_resources/삼익가구_송파점_알렉스_제로월_리클라이너_후기__네이버_블로그.resources",

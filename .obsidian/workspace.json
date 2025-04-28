@@ -13,12 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/옵시디언에 갤럭시노트의 이미지 넣기.md",
+                "file": "boj/4991 robot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "옵시디언에 갤럭시노트의 이미지 넣기"
+              "title": "4991 robot"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ff0989e6ad73bf44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbf21b373661f6a4",
+            "type": "leaf",
+            "state": {
+              "type": "mx-webpage",
+              "state": {
+                "source": "https://www.youtube.com/watch?v=O8MbHQZKMZQ"
+              },
+              "icon": "youtube",
+              "title": "Webpage"
             }
           }
         ]
@@ -214,10 +232,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "febc1b5c3dcda812",
+  "active": "dbf21b373661f6a4",
   "lastOpenFiles": [
-    "mac/갤럭시, 맥 파일 공유 방법.md",
+    "boj/4991 robot.md",
     "obsidian/옵시디언에 갤럭시노트의 이미지 넣기.md",
+    "mac/갤럭시, 맥 파일 공유 방법.md",
     "images/Pasted image 20250427043352.png",
     "images/Pasted image 20250427043324.png",
     "boj/2206 벽 부수고 이동하기/2206번 벽 부수고 이동하기.md",
@@ -249,7 +268,6 @@
     "Evernote/evernote_backup_20240516/서류 시나리오.md",
     "Evernote/evernote_backup_20240516/2023 0804.md",
     "boj/13549_숨바꼭질 bfs.md",
-    "boj/12851 숨바꼭질2/12851번 숨바꼭질 2.md",
     "boj/13913 숨바꼭질4",
     "boj/13549 숨바꼭질3",
     "boj/12851 숨바꼭질2",

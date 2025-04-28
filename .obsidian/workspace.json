@@ -36,7 +36,7 @@
                 "source": "https://www.youtube.com/watch?v=O8MbHQZKMZQ"
               },
               "icon": "youtube",
-              "title": "Webpage"
+              "title": "YouTube - YouTube"
             }
           }
         ]
@@ -232,7 +232,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dbf21b373661f6a4",
+  "active": "febc1b5c3dcda812",
   "lastOpenFiles": [
     "boj/4991 robot.md",
     "obsidian/옵시디언에 갤럭시노트의 이미지 넣기.md",

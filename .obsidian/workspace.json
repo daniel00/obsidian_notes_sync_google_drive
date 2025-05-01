@@ -13,30 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "boj/4991 robot.md",
+                "file": "boj/1194 달이 차오른다, 가자/1194번 달이 차오른다, 가자..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4991 robot"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ff0989e6ad73bf44",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dbf21b373661f6a4",
-            "type": "leaf",
-            "state": {
-              "type": "mx-webpage",
-              "state": {
-                "source": "https://www.youtube.com/watch?v=O8MbHQZKMZQ"
-              },
-              "icon": "youtube",
-              "title": "YouTube - YouTube"
+              "title": "1194번 달이 차오른다, 가자."
             }
           }
         ]
@@ -234,7 +216,9 @@
   },
   "active": "febc1b5c3dcda812",
   "lastOpenFiles": [
-    "boj/4991 robot.md",
+    "boj/boj 4991 robot.md",
+    "boj/1194 달이 차오른다, 가자/1194번 달이 차오른다, 가자..md",
+    "boj/1194 달이 차오른다, 가자",
     "obsidian/옵시디언에 갤럭시노트의 이미지 넣기.md",
     "mac/갤럭시, 맥 파일 공유 방법.md",
     "images/Pasted image 20250427043352.png",
@@ -267,13 +251,11 @@
     "Evernote/evernote_backup_20240516/외박하는아내이혼 유책배우자는 누구  로톡.md",
     "Evernote/evernote_backup_20240516/서류 시나리오.md",
     "Evernote/evernote_backup_20240516/2023 0804.md",
-    "boj/13549_숨바꼭질 bfs.md",
     "boj/13913 숨바꼭질4",
     "boj/13549 숨바꼭질3",
     "boj/12851 숨바꼭질2",
     "boj/1697 숨바꼭질",
     "termux",
-    "telegram",
     "images/Pasted image 20250330030821.png",
     "images/Pasted image 20250329190256.png",
     "images/Pasted image 20250306220711.png",

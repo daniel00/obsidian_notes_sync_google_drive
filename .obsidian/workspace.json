@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "boj/1194 달이 차오른다, 가자/1194번 달이 차오른다, 가자..md",
+                "file": "boj/4991 robot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1194번 달이 차오른다, 가자."
+              "title": "4991 robot"
             }
           }
         ]
@@ -216,8 +216,8 @@
   },
   "active": "febc1b5c3dcda812",
   "lastOpenFiles": [
-    "boj/boj 4991 robot.md",
     "boj/1194 달이 차오른다, 가자/1194번 달이 차오른다, 가자..md",
+    "boj/4991 robot.md",
     "boj/1194 달이 차오른다, 가자",
     "obsidian/옵시디언에 갤럭시노트의 이미지 넣기.md",
     "mac/갤럭시, 맥 파일 공유 방법.md",

@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "9d47555b19610bda",
+    "id": "e490c1d774acf982",
     "type": "split",
     "children": [
       {
-        "id": "f9778cfacf4e4538",
+        "id": "43dc19bec305deba",
         "type": "tabs",
         "children": [
           {
-            "id": "4708b4881790f4c0",
+            "id": "842d3f0a89ec5f6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 6.md",
+                "file": "boj/13549_숨바꼭질 bfs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 6"
+              "title": "13549_숨바꼭질 bfs"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d4353f36318ddc98",
+    "id": "fc30ad0bca0caa3d",
     "type": "split",
     "children": [
       {
-        "id": "497ab1deb04e57dd",
+        "id": "2755a4df05969a6f",
         "type": "tabs",
         "children": [
           {
-            "id": "2b932f8412351033",
+            "id": "4014136dedbea2cb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "b1ce98d43da2b6ae",
+            "id": "67d51afacf38ecfd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "80933b429b22cb5a",
+            "id": "5779eadabcfa6591",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "1f404d1680de0d62",
+            "id": "45a89b84f67ac402",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -89,24 +89,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "f46ccf79de8a642b",
+    "id": "1fe5e0569a0f0b6d",
     "type": "split",
     "children": [
       {
-        "id": "dd97a84970302f5f",
+        "id": "c736df7bac0443a4",
         "type": "tabs",
         "children": [
           {
-            "id": "952ef8f58ce0f1d2",
+            "id": "31b4de90c34ac62f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 6.md",
+                "file": "boj/13549_숨바꼭질 bfs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,25 +115,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 6"
+              "title": "Backlinks for 13549_숨바꼭질 bfs"
             }
           },
           {
-            "id": "f40a9000a9ed1970",
+            "id": "5a6628fd113be36e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 6.md",
+                "file": "boj/13549_숨바꼭질 bfs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 6"
+              "title": "Outgoing links from 13549_숨바꼭질 bfs"
             }
           },
           {
-            "id": "9ff6b24c5b9682be",
+            "id": "d6014d3f30f4830b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,22 +148,22 @@
             }
           },
           {
-            "id": "d76dea39a5cab142",
+            "id": "37010f6a7e8fea2c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 6.md",
+                "file": "boj/13549_숨바꼭질 bfs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 6"
+              "title": "Outline of 13549_숨바꼭질 bfs"
             }
           },
           {
-            "id": "bc3fe10a81240555",
+            "id": "bee12c9f56c26b79",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -196,13 +195,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4708b4881790f4c0",
+  "active": "842d3f0a89ec5f6b",
   "lastOpenFiles": [
-    "sw_expert/강사님노트/minco  SDI SW역량테스트 Expert 대비과정 (11.04-11.08).md",
-    "boj/1726 로봇. robot.md",
-    "boj/2206 벽 부수고 이동하기/2206번 벽 부수고 이동하기.md",
-    "boj/1194 달이 차오른다, 가자/1194번 달이 차오른다, 가자..md",
-    "boj/13913 숨바꼭질4/13913번 숨바꼭질 4.md",
-    "boj/2606 바이러스.md"
+    "sw_expert/pro.mincoding.co.kr 계정.md",
+    "sw_expert_202505/mincoding 접속정보.md",
+    "boj 2206.md"
   ]
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "컴퓨터/구글 드라이브 스트림,미러링.md",
+                "file": "keyboard/애국가.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "구글 드라이브 스트림,미러링"
+              "title": "애국가"
             }
           }
         ]
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "컴퓨터/구글 드라이브 스트림,미러링.md",
+                "file": "keyboard/애국가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 구글 드라이브 스트림,미러링"
+              "title": "Backlinks for 애국가"
             }
           },
           {
@@ -125,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "컴퓨터/구글 드라이브 스트림,미러링.md",
+                "file": "keyboard/애국가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 구글 드라이브 스트림,미러링"
+              "title": "Outgoing links from 애국가"
             }
           },
           {
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "컴퓨터/구글 드라이브 스트림,미러링.md",
+                "file": "keyboard/애국가.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 구글 드라이브 스트림,미러링"
+              "title": "Outline of 애국가"
             }
           },
           {
@@ -198,13 +198,15 @@
   },
   "active": "4708b4881790f4c0",
   "lastOpenFiles": [
-    "images/Pasted image 20250513231929.png",
-    "옵시디언/동기화-구글드라이브.md",
-    "옵시디언/동기화.md",
-    "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 6.md",
-    "sw_expert/강사님노트/minco  SDI SW역량테스트 Expert 대비과정 (11.04-11.08).md",
+    "컴퓨터/구글 드라이브 스트림,미러링.md",
+    "옵시디언/로딩느릴때.md",
     "boj/1726 로봇. robot.md",
+    "sw_expert/강사님노트/minco  SDI SW역량테스트 Expert 대비과정 (11.04-11.08).md",
+    "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 6.md",
+    "옵시디언/동기화.md",
+    "옵시디언/동기화-구글드라이브.md",
     "boj/2206 벽 부수고 이동하기/2206번 벽 부수고 이동하기.md",
+    "images/Pasted image 20250513231929.png",
     "boj/1194 달이 차오른다, 가자/1194번 달이 차오른다, 가자..md",
     "boj/13913 숨바꼭질4/13913번 숨바꼭질 4.md",
     "boj/2606 바이러스.md"

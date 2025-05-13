@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mincoding/problems/섬의 개수.md",
+                "file": "mincoding/problems/연쇄 폭탄 정답.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "섬의 개수"
+              "title": "연쇄 폭탄 정답"
             }
           }
         ]
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mincoding/problems/섬의 개수.md",
+                "file": "mincoding/problems/연쇄 폭탄 정답.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 섬의 개수"
+              "title": "Backlinks for 연쇄 폭탄 정답"
             }
           },
           {
@@ -125,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mincoding/problems/섬의 개수.md",
+                "file": "mincoding/problems/연쇄 폭탄 정답.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 섬의 개수"
+              "title": "Outgoing links from 연쇄 폭탄 정답"
             }
           },
           {
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mincoding/problems/섬의 개수.md",
+                "file": "mincoding/problems/연쇄 폭탄 정답.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 섬의 개수"
+              "title": "Outline of 연쇄 폭탄 정답"
             }
           },
           {
@@ -198,8 +198,9 @@
   },
   "active": "4708b4881790f4c0",
   "lastOpenFiles": [
-    "mincoding/problems/연쇄폭탄/연쇄 폭탄.md",
     "mincoding/problems/섬의 개수.md",
+    "mincoding/problems/연쇄 폭탄 정답.md",
+    "mincoding/problems/연쇄폭탄/연쇄 폭탄.md",
     "mincoding/problems/Sort Library.md",
     "mincoding/problems/연쇄폭탄",
     "mincoding/problems/숫자 관리 프로그램.md",

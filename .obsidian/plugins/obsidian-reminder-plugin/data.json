@@ -1,6 +1,14 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "개인/할일목록 to do list.md": [
+      {
+        "title": "이동식 에어컨 구매",
+        "time": "2025-06-11",
+        "rowNumber": 27
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "09:00",

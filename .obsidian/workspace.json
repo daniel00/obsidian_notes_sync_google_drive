@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f9778cfacf4e4538",
+        "id": "4328b47c11b2277d",
         "type": "tabs",
         "children": [
           {
-            "id": "4708b4881790f4c0",
+            "id": "41af97b476fec825",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "할일",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -196,8 +196,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4708b4881790f4c0",
+  "active": "41af97b476fec825",
   "lastOpenFiles": [
+    "개인/할일목록 to do list.md",
+    "Evernote/evernote_backup_20240516/계정 암호.md",
     "정치/계엄령 미친놈.md",
     "Evernote/evernote_backup_20240516/계정 암호 (conflict 2025-04-27-02-46-32).md",
     "mincoding/problems/연쇄 폭탄 정답.md",
@@ -228,8 +230,6 @@
     "옵시디언/동기화.md",
     "옵시디언/동기화-구글드라이브.md",
     "boj/2206 벽 부수고 이동하기/2206번 벽 부수고 이동하기.md",
-    "images/Pasted image 20250513231929.png",
-    "boj/1194 달이 차오른다, 가자/1194번 달이 차오른다, 가자..md",
-    "boj/13913 숨바꼭질4/13913번 숨바꼭질 4.md"
+    "images/Pasted image 20250513231929.png"
   ]
 }

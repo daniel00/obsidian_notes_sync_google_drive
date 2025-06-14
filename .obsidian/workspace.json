@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evernote/evernote_backup_20240516/퀵소트 quicksort.md",
+                "file": "sw_expert/pro.mincoding.co.kr 계정.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "퀵소트 quicksort"
+              "title": "pro.mincoding.co.kr 계정"
             }
           }
         ]
@@ -198,13 +198,14 @@
   },
   "active": "41af97b476fec825",
   "lastOpenFiles": [
+    "mincoding/problems/Sort Library.md",
+    "Evernote/evernote_backup_20240516/퀵소트 quicksort.md",
     "boj/2893 설탕배달문제/2839번 설탕 배달.md",
     "boj/2893 설탕배달.md",
     "boj/2893 설탕배달문제",
     "algo/그리디.greedy.md",
     "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 13.md",
     "algo",
-    "mincoding/problems/Sort Library.md",
     "개인/할일목록 to do list.md",
     "옵시디언/현재날짜 시간 넣는법.md",
     "Evernote/evernote_backup_20240516/계정 암호.md",
@@ -231,7 +232,6 @@
     "keyboard/애국가.md",
     "컴퓨터/구글 드라이브 스트림,미러링.md",
     "옵시디언/로딩느릴때.md",
-    "boj/1726 로봇. robot.md",
     "images/Pasted image 20250513231929.png"
   ]
 }

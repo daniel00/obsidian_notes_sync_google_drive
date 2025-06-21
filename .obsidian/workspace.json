@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sw_expert_edu_202505/문제목록/우주선 착륙.md",
+                "file": "sw_expert_edu_202505/문제목록/물품배송 풀이.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "우주선 착륙"
+              "title": "물품배송 풀이"
             }
           }
         ]
@@ -198,8 +198,12 @@
   },
   "active": "41af97b476fec825",
   "lastOpenFiles": [
-    "sw_expert_edu_202505/문제목록/요세푸스 순열.md",
+    "sw_expert_edu_202505/문제목록/화물기차 풀이.md",
+    "sw_expert_edu_202505/문제목록/물품배송 풀이.md",
+    "sw_expert_edu_202505/문제목록/화물 기차.md",
+    "sw_expert_edu_202505/문제목록/물품 배송.md",
     "sw_expert_edu_202505/문제목록/우주선 착륙.md",
+    "sw_expert_edu_202505/문제목록/요세푸스 순열.md",
     "sw_expert_edu_202505/문제목록/택시 배정.md",
     "sw_expert_202505/문제목록/민코딩 - 프로그래밍 훈련사이트.md",
     "sw_expert_edu_202505/문제목록",
@@ -226,10 +230,6 @@
     "정치/계엄령 미친놈.md",
     "Evernote/evernote_backup_20240516/계정 암호 (conflict 2025-04-27-02-46-32).md",
     "mincoding/problems/연쇄 폭탄 정답.md",
-    "옵시디언/구글드라이브랑 충돌있을때.md",
-    "sw_expert/20250517 기출 하르방.md",
-    "mincoding/problems/섬의 개수.md",
-    "mincoding/problems/연쇄폭탄/연쇄 폭탄.md",
     "mincoding/problems/연쇄폭탄",
     "mincoding/problems",
     "mincoding/reference",

@@ -8,23 +8,14 @@ description: "ChatGPT helps you get answers, find inspiration and be more produc
 tags:
   - "clippings"
 ---
-main.cpp를 분석하고 run() 함수를 작성하여 SCORE를 최소화 하시오.\*\*\\\[제약사항\\\]\*\*- 메모리:heap + global + stack = 256 MB - 단, stack size = 1MB- 제한시간 10초- 실제 시험에서의 제출 횟수 제한: 10회\*\*\\\[주의사항\\\]\*\*- User Code 안에는 malloc.h 외에 어떤 헤더파일도 추가할 수 없다.- 채점시 main.cpp 는 그대로 사용된다. ( 단, 치팅 방지를 위한 방어 코드가 추가 될 수 있다.)- 제출한 코드에 대하여 엄격한 코드 리뷰를 실시한다. 따라서 main.cpp의 변수에 직접 접근할 수 없다.- 본 검정은 c++만 지원한다.입력입출력은 제공되는 Main 부분의 코드에서 처리하므로 User Code 부분의 코드에서는 별도로 입출력을 처리하지 않는다.출력통과일 경우 PASS, 아니면 FAIL이 출력된다.API 설명\*\*user.cpp에서 구현해야 하는 API함수는 다음과 같다.\*\*
-```
-cppvoid run(int N, int M, Coordinates mDriver[], int K, Passenger mPassenger[])
-```
-\- N \\\* N크기의 2차원 맵에 M명의 택시기사와 K명의 승객이 있다.- N은 항상 1,000,000 이다.- M은 51 이상 100 이하이다.- K는 5,001 이상 10,000 이하이다.- mDriver 에는 M 개의 택시의 시작 위치가 주어진다.- mPassenger 에는 K 명의 승객의 탑승 위치와 도착 위치가 주어진다.- main에서 주어지는 assign\\\_driver() API를 이용해 모든 승객들을 목적지까지 날라야 한다.- (x1, y1) 에서 (x2, y2)로 이동할 경우 걸리는 시간은 |x1 - x2| + |y1 - y2|이다.
-```
-cppbool assign_driver(int driverID, int passengerSize, int passengerIDs[])
-```
-\- driverID는 택시기사의 ID 이다. ( 0 <= driverID < M)- passengerSize 는 driverID 택시기사가 운송해야 할 승객들의 숫자이다.- passengerIDs 는 driverID 택시기사가 운송해야 할 승객들의 ID 로 0이상 K미만의 값이다.- 택시기사는 passengerIDs\\\[\\\] 배열에 저장된 승객들을 index순서대로 운송한다.유저코드
-```
-cpp#define ABS(x) (((x) > 0) ? (x) : -(x))struct Coordinate{    int y, x;};struct Passenger{    Coordinate departure;    Coordinate arrival;};extern bool assign_driver(int driverID, int passengerSize, int passengerIDs[]);void run(int N, int M, Coordinate mDriver[], int K, Passenger mPassenger[]){    return;}
-```
-메인코드
-```
-cpp#ifndef _CRT_SECURE_NO_WARNINGS#define _CRT_SECURE_NO_WARNINGS#endif#include <stdio.h>static unsigned long long seed = 5;static int pseudo_rand(void){    seed = seed * 25214903917ULL + 11ULL;    return (seed >> 16) & 0x3fffffff;}static const int MAX_TC = 5;/* These constant variables will NOT be changed */static const int MAP_SIZE = 1'000'000;static const int MAX_DRIVER_COUNT = 100;static const int MAX_PASSENGER_COUNT = 10'000;static const long long PENALTY = 10'000'000'000'000LL;struct Coordinate{    int y, x;};struct Passenger{    Coordinate departure;    Coordinate arrival;};extern void run(int, int, Coordinate[], int, Passenger[]);#define ABS(x) (((x) > 0) ? (x) : -(x))static int driverCnt;static Coordinate driverList[MAX_DRIVER_COUNT];static Coordinate driverList_bak[MAX_DRIVER_COUNT];static int passengerCnt;static Passenger passengerList[MAX_PASSENGER_COUNT];static Passenger passengerList_bak[MAX_PASSENGER_COUNT];static int isFinished[MAX_PASSENGER_COUNT];static int assignList[MAX_DRIVER_COUNT][MAX_PASSENGER_COUNT];static int assignListSize[MAX_DRIVER_COUNT];static long long SCORE = 0;bool assign_driver(int driverID, int passengerSize, int passengerIDs[]){    if (driverID < 0 || driverID >= driverCnt)        return false;    if (passengerSize < 0 || passengerSize > MAX_PASSENGER_COUNT)        return false;    for (int i = 0; i < passengerSize; i++)    {        if (passengerIDs[i] < 0 || passengerIDs[i] >= passengerCnt)            return false;    }    for (int i = 0; i < passengerSize; i++)    {        assignList[driverID][i] = passengerIDs[i];    }    assignListSize[driverID] = passengerSize;    return true;}static void make_tc(){    driverCnt = pseudo_rand() % 50 + 51;    passengerCnt = pseudo_rand() % 5000 + 5001;    for (int i = 0; i < driverCnt; i++)    {        driverList[i].y = driverList_bak[i].y = pseudo_rand() % MAP_SIZE;        driverList[i].x = driverList_bak[i].x = pseudo_rand() % MAP_SIZE;        assignListSize[i] = 0;    }    for (int i = 0; i < passengerCnt; i++)    {        passengerList[i].departure.y = passengerList_bak[i].departure.y = pseudo_rand() % MAP_SIZE;        passengerList[i].departure.x = passengerList_bak[i].departure.x = pseudo_rand() % MAP_SIZE;        passengerList[i].arrival.y = passengerList_bak[i].arrival.y = pseudo_rand() % MAP_SIZE;        passengerList[i].arrival.x = passengerList_bak[i].arrival.x = pseudo_rand() % MAP_SIZE;        isFinished[i] = 0;    }}static bool verify(){    long long TC_SCORE = 0;    for (int i = 0; i < driverCnt; i++)    {        Coordinate driverPos = driverList[i];        long long score = 0;        for (int j = 0; j < assignListSize[i]; j++)        {            int passengerID = assignList[i][j];            Coordinate pickUp = passengerList[passengerID].departure;            Coordinate dropOff = passengerList[passengerID].arrival;            if (isFinished[passengerID] == 1)                return false;            score += ABS(pickUp.y - driverPos.y) + ABS(pickUp.x - driverPos.x) + ABS(dropOff.y - pickUp.y) + ABS(dropOff.x - pickUp.x);            driverPos = dropOff;            isFinished[passengerID] = 1;        }        if (TC_SCORE < score)            TC_SCORE = score;    }    for (int i = 0; i < passengerCnt; i++)    {        if (isFinished[i] == 0)            return false;    }    SCORE += TC_SCORE;    return true;}int main(){    scanf("%d", &seed);    setbuf(stdout, NULL);    for (int tc = 0; tc < MAX_TC; tc++)    {        make_tc();        run(MAP_SIZE, driverCnt, driverList_bak, passengerCnt, passengerList_bak);        if (verify() == false)        {            SCORE = PENALTY;            break;        }    }    printf("SCORE : %lld\n", SCORE);    return 0;}
-```
-이 문제의 전략을 알려주고, 어떤 알고리즘이 필요한지도 알려줘. 솔루션 코드도 작성해줘
+
+
+
+[[택시 배정]] 이 문제의 전략을 알려주고, 어떤 알고리즘이 필요한지도 알려줘. 솔루션 코드도 작성해줘
+
+
+
+
 
 ---
 
@@ -34,15 +25,15 @@ cpp#ifndef _CRT_SECURE_NO_WARNINGS#define _CRT_SECURE_NO_WARNINGS#endif#include 
 
 ### ✅ 문제 핵심 요약
 
-| 항목 | 내용 |
-| --- | --- |
-| 맵 크기 | `1000000 x 1000000` (좌표 기반) |
-| 택시 기사 수 `M` | 51 ~ 100명 |
-| 승객 수 `K` | 5001 ~ 10000명 |
-| 거리 계산 | 맨해튼 거리 ( |
-| Score 계산 | 모든 택시 중 **최대 이동 거리** 만 최종 Score로 반영 |
-| assign\_driver() | 주어진 기사에게 특정 승객들을 순서대로 할당 |
-| 목표 | **모든 승객을 운송** 하면서, **SCORE를 최소화** |
+| 항목               | 내용                                  |
+| ---------------- | ----------------------------------- |
+| 맵 크기             | `1000000 x 1000000` (좌표 기반)         |
+| 택시 기사 수 `M`      | 51 ~ 100명                           |
+| 승객 수 `K`         | 5001 ~ 10000명                       |
+| 거리 계산            | 맨해튼 거리 (                            |
+| Score 계산         | 모든 택시 중 **최대 이동 거리** 만 최종 Score로 반영 |
+| assign\_driver() | 주어진 기사에게 특정 승객들을 순서대로 할당            |
+| 목표               | **모든 승객을 운송** 하면서, **SCORE를 최소화**   |
 
 ---
 
@@ -434,7 +425,7 @@ Main.cpp, user.cpp
 문제에서 주어진 버전 그대로이며, 입력 생성과 SCORE 측정, `assign_driver()` 검증 포함되어 있습니다.
 
 ```cpp
-cpp#ifndef _CRT_SECURE_NO_WARNINGS
+#ifndef _CRT_SECURE_NO_WARNINGS
 #define _CRT_SECURE_NO_WARNINGS
 #endif
 #include <stdio.h>
@@ -553,7 +544,7 @@ int main() {
 ## ✅ user.cpp
 
 ```cpp
-cpp#define ABS(x) (((x) > 0) ? (x) : -(x))
+#define ABS(x) (((x) > 0) ? (x) : -(x))
 
 struct Coordinate { int y, x; };
 struct Passenger { Coordinate departure; Coordinate arrival; };

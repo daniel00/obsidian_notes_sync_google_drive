@@ -23,6 +23,15 @@ created: 2024-01-02 02:15.11
 ### tmux 시작. 세션 이름 지정해서 시작
 >tmux new -s mysession
 
+### tmux session detach, 다시 attatch 할수 있다.
+> ctrl + b d
+
+### tmux kill-session, 세션이 완전히 지워진다. 다시 attach 못한다.
+>ctrl b :kill-session
+
+### tmux 마지막 세션 저장하는 방법
+>tmux-resu
+
 ### 기존 세션 attatch 하여 시작
 >tmux attach-session -t 0  
 >tmux attach-session -t session_name  

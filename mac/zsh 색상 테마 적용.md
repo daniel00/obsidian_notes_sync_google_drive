@@ -1,7 +1,7 @@
 ---
 created: 2025-07-05 00:40
 updated: 2025-07-05 00:40
-tags: []
+tags: [iterm, zsh, theme, color, scheme]
 alias: []
 ---
 
@@ -30,7 +30,7 @@ updated: 2025-07-05 00:40
 	- profiles - colors - color preset - import, 위에서 압축 푼 경로를 찾는다.
 	- scheme 디렉토리에서 .itermcolos 파일을 선택한다. 아래 이미지는 "Dracular" 테마이다.
 	/Users/yoo/iterm2_colorscheme/mbadolato-iTerm2-Color-Schemes-6fa671f/schemes/Dracula.itermcolors
-- 
+	- import된 테마를 선택한다. 
 	
 
    ![[Pasted image 20250705005023.png]]

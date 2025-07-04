@@ -1,24 +1,20 @@
 ---
-title: yadm
-description: ""
-preview: ""
+created: 2025-07-05 01:07
+updated: 2025-07-05 01:07
 tags: []
-categories:
-  - all
-  - linux
-  - unix
-  - mac
-  - vim
-  - testcat
-date: 2024-05-05 23:42:20
-lastmod: 2024-05-06 22:43:19
-layout: post
-created: 2024-05-12 01:52.59
-updated: 2024-05-12 01:52.59
+alias: []
 ---
 
-created : {{page.date | date:'%Y-%m-%d %R'}}  
-updated : {{page.lastmod | date:'%Y-%m-%d %R'}}
+created: 2025-07-05 01:07
+updated: 2025-07-05 01:07
+
+##### yadm status에서 변경된 파일만 커밋 하려면,
+
+```bash
+yadm add -u
+yadm commit -m "some changed"
+```
+
 
 ### yadm은 여러 config 파일을 관리하는 툴이다.
 예를들어 vim의 .vimrc, hammerspoon 셋업파일인 init.lua, vscode setting.json 등의 파일을 일일이 관리하기가 매우 번거롭다.  
@@ -42,7 +38,6 @@ yadm status
 
 [yadm official]( https://yadm.io/docs/getting_started# )
 
-this is test
 
 
 

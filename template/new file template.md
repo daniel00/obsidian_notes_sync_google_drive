@@ -1,12 +1,12 @@
 ---
-created: <% tp.file.creation_date() %>
-updated: <% tp.file.last_modified_date() %>
+created: <% tp.file.creation_date("YYYY-MM-DD HH:mm:ss DDD") %>
+updated: <% tp.file.creation_date("YYYY-MM-DD HH:mm:ss DDD") %>
 tags: []
 alias: []
 ---
 
-created: <% tp.file.creation_date() %>
-updated: <% tp.file.last_modified_date() %>
+created: <% tp.file.creation_date("YYYY-MM-DD HH:mm:ss DDD") %>
+updated: <% tp.file.creation_date("YYYY-MM-DD HH:mm:ss DDD") %>
 
 #### 제목을 입력 하세요
 

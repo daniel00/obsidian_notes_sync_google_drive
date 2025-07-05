@@ -31,7 +31,7 @@ else
 fi
 ```
 
-아래 코드에서 command -v $CMD 는 
+
 ```bash
 if command -v $CMD >/dev/null 2>&1; then   
 ```

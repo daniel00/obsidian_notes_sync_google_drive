@@ -44,3 +44,26 @@ $? 변수에 exit code가 저장 된다.
 아래 처럼 exit code를 확인 할 수 있다.
 
 ![[Pasted image 20250706013037.png | 500]]
+
+
+
+if 문의 조건을 점검하는 방법이 여러개 있는데,
+
+- 문자열에 내용이 있으면 true, 없으면 false로 점검 하는 방법
+
+```sh
+if [ "" ]; then
+    echo "test.cpp exist"
+else
+    echo "test.cpp not exist"
+fi
+```
+
+- 조건 검사 결과를 확인 하는 방식 : *0(참), 1(거짓)*
+```sh
+if [ -f "test.cpp" ]; then
+    echo "test.cpp exist"
+else
+    echo "test.cpp not exist"
+fi
+```

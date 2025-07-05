@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "666.md",
+                "file": "linux/주요명령어.terminal cmd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "666"
+              "title": "주요명령어.terminal cmd"
             }
           }
         ]
@@ -198,8 +198,10 @@
   },
   "active": "41af97b476fec825",
   "lastOpenFiles": [
-    "template/new file template.md",
     "666.md",
+    "linux/주요명령어.terminal cmd.md",
+    "linux",
+    "template/new file template.md",
     "555.md",
     "test2.md",
     "444.md",
@@ -231,12 +233,10 @@
     "sw_expert_edu_202505/강사님자료/Hash Table 자료구조.md",
     "sw_expert_edu_202505/문제목록/Deque 사용.md",
     "sw_expert_edu_202505/강사님자료/vector 코드.md",
-    "sw_expert_edu_202505/문제목록/우주선 착륙 풀이.md",
     "sw_expert_edu_202505/강사님자료",
     "sw_expert_edu_202505/문제목록",
     "sw_expert_edu_202505",
     "sw_expert_202505/문제목록",
-    "sw_expert/quicksort",
     "images/Pasted image 20250513231929.png"
   ]
 }

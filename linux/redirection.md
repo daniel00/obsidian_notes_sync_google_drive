@@ -1,7 +1,7 @@
 ---
 created: 2025-07-06 01:15:12 Sun
 updated: 2025-07-06 01:15:12 Sun
-tags: []
+tags: [exit code]
 alias: []
 ---
 
@@ -15,11 +15,8 @@ updated: 2025-07-06 01:15:12 Sun
 if  문에서 command -v 로 쉘 스크립트 수행시 인자로 받은 CMD가 존재하는지를 판단하게 되는데 (command -v htop)
 CMD가 존재하면 , exit code 0을 출력 합니다.
 
-bash 에서는 exit code 0 이 성공을 나타낸다!!!
-exit 0 : success, true
-exit 1 : fail, false
 
-
+check_cmd.sh
 
 ```sh
 #!/bin/bash
@@ -34,7 +31,16 @@ else
 fi
 ```
 
+아래 코드에서 command -v $CMD 는 
+```bash
+if command -v $CMD >/dev/null 2>&1; then   
+```
+
+bash 에서는 exit code 0 이 성공을 나타낸다!!!
+exit 0 : success, true
+exit 1 : fail, false
 
 $? 변수에 exit code가 저장 된다.
+아래 처럼 exit code를 확인 할 수 있다.
 
-![[Pasted image 20250706013037.png]]
+![[Pasted image 20250706013037.png | 500]]

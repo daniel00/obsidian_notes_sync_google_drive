@@ -8,6 +8,7 @@ alias: []
 created: <% tp.file.creation_date("YYYY-MM-DD HH:mm:ss DDD") %>
 updated: <% tp.file.creation_date("YYYY-MM-DD HH:mm:ss DDD") %>
 
-#### <% tp.cursor %>
+#### 제목을 입력 하세요
+
 
 내용을 입력 하세요

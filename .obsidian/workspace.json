@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "마이크로마우스/공부이유.방법.md",
+                "file": "template/new file template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "공부이유.방법"
+              "title": "new file template"
             }
           },
           {
@@ -212,8 +212,10 @@
   },
   "active": "41af97b476fec825",
   "lastOpenFiles": [
-    "옵시디언/현재날짜 시간 넣는법.md",
+    "time test.md",
+    "micromouse/book1/Amazon.com Lets make Micromouse robot First part kurushindetukuru micromouse (Japanese Edition) eBook  takeyuta Books.md",
     "마이크로마우스/공부이유.방법.md",
+    "옵시디언/현재날짜 시간 넣는법.md",
     "git/yadm 사용법.md",
     "마이크로마우스",
     "Jekyll/2024-05-05-yadm.md",
@@ -222,7 +224,6 @@
     "images/Pasted image 20250705004041.png",
     "mac/터미널 색상 리눅스랑 같게 설정하는 방법.md",
     "images/Pasted image 20250704233601.png",
-    "micromouse/book1/Amazon.com Lets make Micromouse robot First part kurushindetukuru micromouse (Japanese Edition) eBook  takeyuta Books.md",
     "micromouse/ucla lecture/Micromouse  IEEE at UCLA Project Docs.md",
     "micromouse/book1",
     "book/실습과 그림으로 배우는 리눅스 구조.md",
@@ -249,7 +250,6 @@
     "sw_expert_edu_202505",
     "sw_expert_202505/mincoding 접속정보.md",
     "sw_expert_202505/문제목록",
-    "sw_expert/기출 하루방 202505.md",
     "sw_expert/quicksort",
     "images/Pasted image 20250513231929.png"
   ]

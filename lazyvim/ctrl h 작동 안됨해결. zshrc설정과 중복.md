@@ -43,9 +43,10 @@ lazyvim에서 터미널을 열면 ctrl + h가 백스페이스로 동작하지 �
 ```lua
 -- 터미널 모드에서만 Ctrl + h를 백스페이스로 설정
 vim.cmd [[
-  autocmd TermOpen * tnoremap <buffer> <C-h> <BS>
+  autocmd TermOpen,TermEnter * tnoremap <buffer> <C-h> <BS>
 ]]
 ```
+
 
 이 코드는 터미널이 열릴 때마다 `Ctrl + h`를 백스페이스로 매핑합니다. 다른 모드에서는 기존의 키맵과 충돌하지 않습니다.
 
@@ -69,3 +70,6 @@ vim.cmd [[
 vim.cmd [[
   autocmd TermOpen,TermEnter * tnoremap <buffer> <C-h> <BS>
 ]]
+```
+
+```lua

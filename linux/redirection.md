@@ -43,7 +43,8 @@ exit 1 : fail, false
 $? 변수에 exit code가 저장 된다.
 아래 처럼 exit code를 확인 할 수 있다.
 
-![[Pasted image 20250706013037.png | 500]]
+![[Pasted image 20250706013037
+
 
 
 

@@ -8,7 +8,15 @@ alias: []
 created: 2025-07-06 16:55:26 Sun
 updated: 2025-07-06 16:55:26 Sun
 
-#### LSP에서 출력하는 경고를 확인하거나 복사해서 
+#### LazyVim에서, LSP가 출력하는 경고를 확인하거나 복사하는 방법
+
+###### <space>xx
 
 
-내용을 입력 하세요
+![[Pasted image 20250706165733.png]]
+
+
+![[Pasted image 20250706165800.png]]
+
+
+![[Pasted image 20250706165828.png]]

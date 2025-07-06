@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sw_expert/공부방법.md",
+                "file": "lazyvim/c-u ctrl u 라인삭제로 매핑 하는법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "공부방법"
+              "title": "c-u ctrl u 라인삭제로 매핑 하는법"
             }
           },
           {
@@ -231,8 +231,9 @@
   },
   "active": "ac3bc714aa353322",
   "lastOpenFiles": [
-    "lazyvim/ctrl h 작동 안됨해결. zshrc설정과 중복.md",
     "sw_expert/공부방법.md",
+    "lazyvim/c-u ctrl u 라인삭제로 매핑 하는법.md",
+    "lazyvim/ctrl h 작동 안됨해결. zshrc설정과 중복.md",
     "lazyvim/notice 확인 하는 방법.md",
     "lazyvim/lsp 경고 확인하기.md",
     "lazyvim.md",
@@ -266,7 +267,6 @@
     "time test.md",
     "micromouse/book1/Amazon.com Lets make Micromouse robot First part kurushindetukuru micromouse (Japanese Edition) eBook  takeyuta Books.md",
     "마이크로마우스/공부이유.방법.md",
-    "git/yadm 사용법.md",
     "마이크로마우스",
     "images/Pasted image 20250705005023.png",
     "images/Pasted image 20250705004041.png",

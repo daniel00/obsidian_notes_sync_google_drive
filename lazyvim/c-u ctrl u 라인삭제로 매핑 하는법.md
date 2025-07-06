@@ -14,9 +14,12 @@ updated: 2025-07-06 19:55:06 Sun
 (1) Telescope를 사용하고 있다면, 디폴트로 매핑된 c-u/ c-d 가 화면 스크롤로 사용되고 있다.
 이걸 없애야 한다.
 
-- 최신 Lazyvim에서는 Telescope 대신에 fzf-lua를 사용하는데, 이 fzf-lua가 c-u / c-d 키를 제어하고 있는거 같은데,
+(2) 최신 Lazyvim에서는 Telescope 대신에 fzf-lua를 사용하는데, 이 fzf-lua가 c-u / c-d 키를 제어하고 있는거 같은데,
 제어를 못하게 하는 방법을 모르겠다. 그래서 그냥 Telescope를 사용하도록 했다.
-아래에서, 
+
+
+
+(1) Telescope의 c-u, c-d 디스에이블
 
 ```lua
 return {
@@ -36,6 +39,9 @@ return {
 ```
 
 
+
+
+(2) Telescope 사용하도록 설정
 
 ~/.config/nvim/lazyvim.json 파일에 아래처럼 넣으면 된다.
 
@@ -69,3 +75,7 @@ return {
     "version": 8
 }
 ```
+
+
+
+*fzf-lua* 에서 c-u / c-d를 사용하지 않게 하는 방법이 제일 좋을 것 같다.  찾아보자.

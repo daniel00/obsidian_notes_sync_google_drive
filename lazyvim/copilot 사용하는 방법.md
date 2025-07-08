@@ -32,23 +32,12 @@ LazyVim에서 GitHub Copilot을 사용하려면, copilot.nvim 플러그인을 �
 
 ####  copilot 계정 변경 하는 방법
 
-  Yoo ───
+- /Users/yoo/.config/github-copilot/apps.json 파일을 삭제하고 (rm app.json)
+- nvim을 종료 후 재시작 한다.
+- :Copilot auth를 입력하면,
+- 8자리 코드가 뜨고, 그 아래에는 github copilot device 인증 링크가 뜬다.
+- 해당 링크를 복사해서 웹브라우저에서 열면, 인증코드를 입력하라고 나온다.
+- 위 8자리 코드를 복사해서 붙여 넣기 하면 된다.
+- :Copilot auth 로 계정을 확인해 보면 된다.
 
-copilot user를 변경하고 싶은데?
 
-  Copilot ───
-
-GitHub Copilot의 사용자(계정)를 변경하려면 기존 인증을 해제하고 새로운 계정으로 다시 인증해야 합니다. 아래 절차를 따르세요:
-
-1. Neovim에서 기존 인증을 해제합니다:
-```
-:Copilot signout
-```
-
-2. 새로운 계정으로 로그인합니다:
-```
-:Copilot auth
-```
-   - 안내되는 URL을 브라우저에 입력하고, 원하는 GitHub 계정으로 로그인 및 인증을 진행하세요.
-
-이제 Copilot이 새 계정으로 연결됩니다.

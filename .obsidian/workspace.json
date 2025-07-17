@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sw_expert/quicksort/민코딩 - 프로그래밍 훈련사이트.md",
+                "file": "sw_expert/강사님노트/minco - SDI SW역량테스트 Expert 대비과정 (11.04-11.08) 2 - 로봇 청소기, 친절한 문제로 바꾸기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "민코딩 - 프로그래밍 훈련사이트"
+              "title": "minco - SDI SW역량테스트 Expert 대비과정 (11.04-11.08) 2 - 로봇 청소기, 친절한 문제로 바꾸기"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "할일",
+                "query": "로봇청소",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,12 +84,12 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 427,
-    "collapsed": true
+    "width": 427
   },
   "right": {
     "id": "f46ccf79de8a642b",
@@ -197,8 +197,11 @@
   },
   "active": "c16fc813759fb06b",
   "lastOpenFiles": [
-    "sw expert academy 접속 정보.md",
+    "sw_expert/강사님노트/minco - SDI SW역량테스트 Expert 대비과정 (11.04-11.08) 1 - 로봇청소기, 강사님코드.md",
+    "sw_expert/기출문제/minco - 로봇청소기.md",
+    "sw_expert/강사님노트/minco - SDI SW역량테스트 Expert 대비과정 (11.04-11.08) 2 - 로봇 청소기, 친절한 문제로 바꾸기.md",
     "sw_expert/quicksort/민코딩 - 프로그래밍 훈련사이트.md",
+    "sw expert academy 접속 정보.md",
     "Evernote/evernote_backup_20240516/퀵소트 quicksort.md",
     "sw_expert/기출 하루방 202505.md",
     "lazyvim/copilot 사용하는 방법.md",
@@ -232,9 +235,6 @@
     "linux/redirection, dev",
     "666.md",
     "linux",
-    "template/new file template.md",
-    "555.md",
-    "test2.md",
     "마이크로마우스",
     "micromouse/book1",
     "micromouse/ucla lecture",

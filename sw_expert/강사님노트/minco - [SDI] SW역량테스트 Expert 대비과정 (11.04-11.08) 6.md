@@ -7,6 +7,7 @@ created: 2024-11-08
 description: 
 tags:
   - clippings
+  - 2차원배열전역
 updated: 2024-11-08 01:01.01
 ---
 - ![](https://pro.mincoding.co.kr/img/logo_01.580320d1.svg)

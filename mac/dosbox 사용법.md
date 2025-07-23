@@ -28,3 +28,7 @@ config파일에 아래 처럼 적용 해야 함.
 | `scaler=normal2x`        | 고해상도 화면에서 너무 작게 보이는 문제 해결 |
 #### 한메타자 사용법
 
+
+
+##### 도스박스 키맵
+https://www.dosbox.com/wiki/Special_Keys

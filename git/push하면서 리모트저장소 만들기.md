@@ -17,6 +17,7 @@ brew install gh
 ```bash
 gh auth login
 ```
+웹브라우저 열리면 로그인하고, 터미널에 있는 암호 입력
 
 #### gh로 아래처럼 push
 

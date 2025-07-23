@@ -13,6 +13,11 @@ updated: 2025-07-23 23:33:21 Wed
 #### github-cli 설치
 brew install gh
 
+#### gh 로그인
+```bash
+gh auth login
+```
+
 #### gh로 아래처럼 push
 
 *이미 git init 되어 있고, 커밋이 하나 이상 있다고 가정*

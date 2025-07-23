@@ -27,6 +27,11 @@ config파일에 아래 처럼 적용 해야 함.
 | `aspect=true`            | 비율 유지 (찌그러짐 방지)           |
 | `scaler=normal2x`        | 고해상도 화면에서 너무 작게 보이는 문제 해결 |
 #### 한메타자 사용법
+한메타자 리눅스용 다운로드
+https://github.com/hamonikr/hanme-taja?tab=readme-ov-file
+
+맥에서 deb 파일 설치 할 수 있도록 dpkg 설치
+brew install dpkg
 
 
 

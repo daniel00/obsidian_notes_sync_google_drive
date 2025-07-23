@@ -19,6 +19,11 @@ config파일에 아래 처럼 적용 해야 함.
 - config 파일 경로 -  /Users/yoo/Library/Preferences/DOSBox 0.74-3-3 Preferences
 - 변경내용
 
+#### 4. 마운트 경로 저장
+위 config파일의 아래처럼 등록
+[autoexec]
+mount c /Users/yoo/mydos/
+
 | 항목                       | 설명                        |
 | ------------------------ | ------------------------- |
 | `fullscreen=true`        | 실행 시 전체화면으로 시작            |

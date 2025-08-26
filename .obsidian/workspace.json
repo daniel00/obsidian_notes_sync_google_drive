@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "모션데스크"
             }
+          },
+          {
+            "id": "85ec16078f3fcf9e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,6 +194,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -195,7 +209,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c16fc813759fb06b",
+  "active": "85ec16078f3fcf9e",
   "lastOpenFiles": [
     "mac/dosbox 사용법.md",
     "모션데스크.md",

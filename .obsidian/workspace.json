@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "모션데스크.md",
+                "file": "모니터.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "모션데스크"
-            }
-          },
-          {
-            "id": "85ec16078f3fcf9e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "title": "모니터"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,10 +196,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "85ec16078f3fcf9e",
+  "active": "c16fc813759fb06b",
   "lastOpenFiles": [
-    "mac/dosbox 사용법.md",
     "모션데스크.md",
+    "모니터.md",
+    "mac/dosbox 사용법.md",
     "git/push하면서 리모트저장소 만들기.md",
     "mac/에너지영향도. 온도.md",
     "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 6.md",
@@ -236,7 +224,6 @@
     "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 13.md",
     "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 12.md",
     "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 11.md",
-    "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 10.md",
     "images/Pasted image 20250708235033.png",
     "images/Pasted image 20250708234835.png",
     "images/Pasted image 20250706171318.png",

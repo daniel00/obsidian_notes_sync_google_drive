@@ -70,12 +70,6 @@
   "command-palette:open": [
     {
       "modifiers": [
-        "Mod"
-      ],
-      "key": "P"
-    },
-    {
-      "modifiers": [
         "Ctrl",
         "Shift"
       ],
@@ -115,6 +109,14 @@
         "Shift"
       ],
       "key": "T"
+    }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
     }
   ]
 }

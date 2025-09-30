@@ -83,6 +83,16 @@
               "icon": "stacked-levels",
               "title": "Tag Folder"
             }
+          },
+          {
+            "id": "c1c05ff32d95a396",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
           }
         ],
         "currentTab": 3
@@ -164,6 +174,16 @@
           },
           {
             "id": "bc3fe10a81240555",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "reminder-list"
+            }
+          },
+          {
+            "id": "01caddf8d4c51237",
             "type": "leaf",
             "state": {
               "type": "reminder-list",

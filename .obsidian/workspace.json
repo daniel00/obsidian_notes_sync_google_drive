@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/note1.md",
+                "file": "Evernote/evernote_backup_20240516/계정 암호.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "note1"
+              "title": "계정 암호"
             }
           }
         ]
@@ -218,9 +218,9 @@
   },
   "active": "c16fc813759fb06b",
   "lastOpenFiles": [
+    "test/note1.md",
     "Untitled.base",
     "Untitled 1.base",
-    "test/note1.md",
     "로블록스 자동화.md",
     "computer/공유기관리192.168.0.1.md",
     "모니터.md",
@@ -262,7 +262,6 @@
     "마이크로마우스",
     "micromouse/book1",
     "micromouse/ucla lecture",
-    "micromouse",
-    "book"
+    "micromouse"
   ]
 }

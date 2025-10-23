@@ -48,4 +48,4 @@ updated: 2025-10-23 21:30:50 Thu
      crontab으로 자동화 해도 되지만 일단은 그냥 쉘 스크립트를 실행 시키는걸로 하자
 	 
 - 이후 vscode 에 wsl remote 확장을 설치하고  code . 으로 열면 된다.
-- cpp 확장은 cpp-in-ubuntu 와 비슷한 이름을 걸 새로 설치해야 goto definition
+- cpp 확장은 cpp-in-ubuntu 와 비슷한 이름을 걸 새로 설치해야 goto definition 등이 동작한다.

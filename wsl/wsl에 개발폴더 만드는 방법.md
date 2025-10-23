@@ -21,6 +21,10 @@ updated: 2025-10-23 21:30:50 Thu
 ##### 적용순서
  - D드라이브의 study 폴더를 WSL의 ~/study_in_wsl 로 복사
    cp -r /mnt/d/study/*  ~/study_in_wsl/
+
+***** 아래처럼 했더니 동기화 시간이 너무 오래 걸린다. 
+***** 그냥 github를 통해 동기화는 방법으로 바꿨다. 혹시나 싶어서 아래 코드는 그냥 남긴다.
+
  -  rsync로 위 두개의 폴더를 동기화
  ```shell
 	 #!/bin/bash
@@ -43,5 +47,5 @@ updated: 2025-10-23 21:30:50 Thu
 	 
      crontab으로 자동화 해도 되지만 일단은 그냥 쉘 스크립트를 실행 시키는걸로 하자
 	 
- - 프로그램 작업은 wsl의 경로에서 수행
- - 
+- 이후 vscode 에 wsl remote 확장을 설치하고  code . 으로 열면 된다.
+- cpp 확장은 cpp-in-ubuntu 와 비슷한 이름을 걸 새로 설치해야 goto definition

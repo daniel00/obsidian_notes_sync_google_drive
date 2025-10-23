@@ -22,5 +22,26 @@ updated: 2025-10-23 21:30:50 Thu
  - D드라이브의 study 폴더를 WSL의 ~/study_in_wsl 로 복사
    cp -r /mnt/d/study/*  ~/study_in_wsl/
  -  rsync로 위 두개의 폴더를 동기화
+ ```shell
+	 #!/bin/bash
+	
+	# WSL 내부 작업 디렉터리
+	SOURCE=~/study_in_wsl/
+	
+	# Windows D드라이브 백업 경로
+	DEST=/mnt/d/yoo_data/study/
+	
+	# 로그 출력
+	echo "백업 시작: $(date)"
+	
+	# rsync 실행
+	rsync -avh --delete "$SOURCE" "$DEST"
+	
+	echo "백업 완료: $(date)"
+
+ ```
+	 
+     crontab으로 자동화 해도 되지만 일단은 그냥 쉘 스크립트를 실행 시키는걸로 하자
+	 
  - 프로그램 작업은 wsl의 경로에서 수행
  - 

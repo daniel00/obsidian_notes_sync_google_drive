@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "wsl에 개발폴더 만드는 방법"
             }
+          },
+          {
+            "id": "ad3c0c8eb3c60448",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,7 +229,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6bdaa15d3bab9bf3",
+  "active": "ad3c0c8eb3c60448",
   "lastOpenFiles": [
     "wsl/wsl에 개발폴더 만드는 방법.md",
     "Evernote/evernote_backup_20240516/계정 암호.md",

@@ -25,12 +25,14 @@
             "id": "ad3c0c8eb3c60448",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "wsl/wsl에 개발폴더 만드는 방법.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "wsl에 개발폴더 만드는 방법"
             }
           }
         ],
@@ -231,6 +233,7 @@
   },
   "active": "ad3c0c8eb3c60448",
   "lastOpenFiles": [
+    "역사/전제군주제.md",
     "wsl/wsl에 개발폴더 만드는 방법.md",
     "Evernote/evernote_backup_20240516/계정 암호.md",
     "wsl",
@@ -263,7 +266,6 @@
     "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 22.md",
     "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 21.md",
     "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 20.md",
-    "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 19.md",
     "images/Pasted image 20250708235033.png",
     "images/Pasted image 20250708234835.png",
     "images/Pasted image 20250706171318.png",

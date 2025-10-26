@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "45b1f9786e6b2336",
+        "id": "3c6756eee42c27e9",
         "type": "tabs",
         "children": [
           {
-            "id": "6bdaa15d3bab9bf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wsl/wsl에 개발폴더 만드는 방법.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "wsl에 개발폴더 만드는 방법"
-            }
-          },
-          {
-            "id": "ad3c0c8eb3c60448",
+            "id": "c16fc813759fb06b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "wsl에 개발폴더 만드는 방법"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,23 +83,13 @@
               "icon": "stacked-levels",
               "title": "Tag Folder"
             }
-          },
-          {
-            "id": "c1c05ff32d95a396",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view",
-              "state": {},
-              "icon": "stacked-levels",
-              "title": "Tag Folder"
-            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 274.99999618530273
+    "width": 427
   },
   "right": {
     "id": "f46ccf79de8a642b",
@@ -193,16 +168,6 @@
             "state": {
               "type": "reminder-list",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "reminder-list"
-            }
-          },
-          {
-            "id": "01caddf8d4c51237",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {},
               "icon": "clock",
               "title": "Reminders"
             }
@@ -231,16 +196,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad3c0c8eb3c60448",
+  "active": "c16fc813759fb06b",
   "lastOpenFiles": [
-    "역사/전제군주제.md",
+    "로블록스 자동화.md",
     "wsl/wsl에 개발폴더 만드는 방법.md",
-    "Evernote/evernote_backup_20240516/계정 암호.md",
     "wsl",
-    "test/note1.md",
+    "whale/확장앱.md",
+    "mac/맥에서 c sharp 개발 방법(2), dotnet new.md",
+    "capture_temp 1.jpg",
+    "assets/_w.png",
     "Untitled.base",
     "Untitled 1.base",
-    "로블록스 자동화.md",
+    "Evernote/evernote_backup_20240516/맥을 쓰면서 놀려두는 _캡스락(Caps Lock)_ 키를 보다 유용하게 활용해 보자!.md",
+    "Evernote/evernote_backup_20240516/_resources/BJT전류제어,_FET전압제어.resources/5.PNG_type=s1.png",
     "computer/공유기관리192.168.0.1.md",
     "모니터.md",
     "computer",
@@ -271,9 +239,6 @@
     "images/Pasted image 20250706171318.png",
     "images/Pasted image 20250706170334.png",
     "images/Pasted image 20250706170150.png",
-    "images/Pasted image 20250706170048.png",
-    "images/Pasted image 20250706165828.png",
-    "images/Pasted image 20250706165800.png",
     "linux/redirection, dev",
     "linux",
     "마이크로마우스",

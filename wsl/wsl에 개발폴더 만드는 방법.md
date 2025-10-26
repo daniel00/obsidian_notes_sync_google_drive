@@ -49,3 +49,7 @@ updated: 2025-10-23 21:30:50 Thu
 	 
 - 이후 vscode 에 wsl remote 확장을 설치하고  code . 으로 열면 된다.
 - cpp 확장은 cpp-in-ubuntu 와 비슷한 이름을 걸 새로 설치해야 goto definition 등이 동작한다.
+
+
+
+

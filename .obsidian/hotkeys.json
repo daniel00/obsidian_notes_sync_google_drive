@@ -114,7 +114,7 @@
   "switcher:open": [
     {
       "modifiers": [
-        "Mod"
+        "Ctrl"
       ],
       "key": "P"
     }

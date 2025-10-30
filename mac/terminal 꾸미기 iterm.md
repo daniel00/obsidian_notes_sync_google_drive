@@ -12,3 +12,8 @@ updated: 2025-10-31 00:58:51 Fri
 
 
 내용을 입력 하세요
+
+
+https://www.youtube.com/watch?v=CF1tMjvHDRA&t=129s
+
+![[Pasted image 20251031005930.png]]

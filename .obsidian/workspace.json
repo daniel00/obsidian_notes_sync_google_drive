@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "주식/이광수명언.md",
+                "file": "mac/terminal 꾸미기 iterm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "이광수명언"
+              "title": "terminal 꾸미기 iterm"
             }
           }
         ]
@@ -198,9 +198,10 @@
   },
   "active": "c16fc813759fb06b",
   "lastOpenFiles": [
+    "주식/이광수명언.md",
+    "mac/terminal 꾸미기 iterm.md",
     "images/Pasted image 20251031004515.png",
     "wsl/wsl에 개발폴더 만드는 방법.md",
-    "주식/이광수명언.md",
     "주식",
     "로블록스 자동화.md",
     "wsl",
@@ -239,7 +240,6 @@
     "images/Pasted image 20250708234835.png",
     "images/Pasted image 20250706171318.png",
     "images/Pasted image 20250706170334.png",
-    "images/Pasted image 20250706170150.png",
     "linux/redirection, dev",
     "linux",
     "마이크로마우스",

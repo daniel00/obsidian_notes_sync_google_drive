@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "terminal 꾸미기 iterm"
             }
+          },
+          {
+            "id": "12532746f24e7e60",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,7 +209,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c16fc813759fb06b",
+  "active": "12532746f24e7e60",
   "lastOpenFiles": [
     "images/Pasted image 20251031005930.png",
     "주식/이광수명언.md",

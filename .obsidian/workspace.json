@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "계정 암호"
             }
+          },
+          {
+            "id": "747558940eca7ce9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,7 +223,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12532746f24e7e60",
+  "active": "747558940eca7ce9",
   "lastOpenFiles": [
     "images/Pasted image 20251031005930.png",
     "주식/이광수명언.md",

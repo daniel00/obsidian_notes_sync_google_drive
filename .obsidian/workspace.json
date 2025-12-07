@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "계정 암호"
             }
-          },
-          {
-            "id": "4fd036b5f0c6d2d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,7 +211,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4fd036b5f0c6d2d2",
+  "active": "12532746f24e7e60",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "wsl/zshrc.md",

@@ -36,19 +36,17 @@
             }
           },
           {
-            "id": "747558940eca7ce9",
+            "id": "4fd036b5f0c6d2d2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,8 +221,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "747558940eca7ce9",
+  "active": "12532746f24e7e60",
   "lastOpenFiles": [
+    "Evernote/evernote_backup_20240516/계정 암호.md",
     "images/Pasted image 20251031005930.png",
     "주식/이광수명언.md",
     "mac/terminal 꾸미기 iterm.md",
@@ -266,7 +265,6 @@
     "images/Pasted image 20250708235033.png",
     "images/Pasted image 20250708234835.png",
     "images/Pasted image 20250706171318.png",
-    "images/Pasted image 20250706170334.png",
     "linux/redirection, dev",
     "linux",
     "마이크로마우스",

@@ -1,0 +1,30 @@
+# 컴파일 파일
+*.o
+*.out
+*.exe
+
+# 로그
+*.log
+
+# 임시 파일
+*.tmp
+*.swp
+.DS_Store
+
+# 빌드 디렉토리
+/build/
+/dist/
+/bin/
+/obj/
+
+# 가상환경
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# 환경 변수 파일
+.env
+.env.*

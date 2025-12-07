@@ -4,39 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "3c6756eee42c27e9",
+        "id": "45b1f9786e6b2336",
         "type": "tabs",
         "children": [
           {
-            "id": "c16fc813759fb06b",
+            "id": "6bdaa15d3bab9bf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mac/terminal 꾸미기 iterm.md",
+                "file": "wsl/wsl에 개발폴더 만드는 방법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "terminal 꾸미기 iterm"
+              "title": "wsl에 개발폴더 만드는 방법"
             }
           },
           {
-            "id": "12532746f24e7e60",
+            "id": "ad3c0c8eb3c60448",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evernote/evernote_backup_20240516/계정 암호.md",
+                "file": "wsl/zshrc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "계정 암호"
+              "title": "zshrc"
+            }
+          },
+          {
+            "id": "0e255fb9d82df95e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          },
+          {
+            "id": "33b78ba30595e9d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "windows/glazewm사용법/A Cheatsheet for Glaze Window Manager.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Cheatsheet for Glaze Window Manager"
+            }
+          },
+          {
+            "id": "d190227cd9c2a7bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test/commit test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "commit test"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,13 +138,23 @@
               "icon": "stacked-levels",
               "title": "Tag Folder"
             }
+          },
+          {
+            "id": "c1c05ff32d95a396",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 427
+    "width": 274.99999618530273
   },
   "right": {
     "id": "f46ccf79de8a642b",
@@ -183,6 +233,16 @@
             "state": {
               "type": "reminder-list",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "reminder-list"
+            }
+          },
+          {
+            "id": "01caddf8d4c51237",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
               "icon": "clock",
               "title": "Reminders"
             }
@@ -211,38 +271,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12532746f24e7e60",
+  "active": "d190227cd9c2a7bf",
   "lastOpenFiles": [
+    "test/commit test.md",
     "conflict-files-obsidian-git.md",
-    "wsl/zshrc.md",
     "windows/glazewm사용법/A Cheatsheet for Glaze Window Manager.md",
+    "wsl/zshrc.md",
+    "wsl/wsl에 개발폴더 만드는 방법.md",
     "windows/glazewm사용법",
     "windows",
-    "test/commit test.md",
-    "Evernote/evernote_backup_20240516/계정 암호.md",
-    "images/Pasted image 20251031005930.png",
+    "mincoding/problems/연쇄폭탄/desktop.ini",
+    "diy/desktop.ini",
+    "macbook/desktop.ini",
+    "srt/desktop.ini",
+    "Jekyll/desktop.ini",
+    "개인/desktop.ini",
+    "Clippings/desktop.ini",
+    "dotnet maui/desktop.ini",
     "주식/이광수명언.md",
     "mac/terminal 꾸미기 iterm.md",
+    "images/Pasted image 20251031005930.png",
     "images/Pasted image 20251031004515.png",
-    "wsl/wsl에 개발폴더 만드는 방법.md",
-    "주식",
+    "역사/전제군주제.md",
+    "Evernote/evernote_backup_20240516/계정 암호.md",
+    "test/note1.md",
     "로블록스 자동화.md",
-    "wsl",
-    "whale/확장앱.md",
-    "mac/맥에서 c sharp 개발 방법(2), dotnet new.md",
-    "capture_temp 1.jpg",
-    "assets/_w.png",
-    "Untitled.base",
-    "Untitled 1.base",
-    "Evernote/evernote_backup_20240516/맥을 쓰면서 놀려두는 _캡스락(Caps Lock)_ 키를 보다 유용하게 활용해 보자!.md",
-    "Evernote/evernote_backup_20240516/_resources/BJT전류제어,_FET전압제어.resources/5.PNG_type=s1.png",
     "computer/공유기관리192.168.0.1.md",
     "모니터.md",
-    "computer",
     "권취 관련.md",
     "침대.md",
     "게임/100 hidden words to find.md",
-    "게임",
     "images/Pasted image 20250830214500.png",
     "images/Pasted image 20250830214351.png",
     "모션데스크.md",
@@ -254,10 +312,12 @@
     "sw_expert/기출문제/minco - 로봇청소기.md",
     "sw_expert/강사님노트/minco - SDI SW역량테스트 Expert 대비과정 (11.04-11.08) 3 - 물품배송, 아이디어.md",
     "sw_expert/강사님노트/minco - SDI SW역량테스트 Expert 대비과정 (11.04-11.08) 2 - 로봇 청소기, 친절한 문제로 바꾸기.md",
+    "sw_expert/강사님노트/minco - SDI SW역량테스트 Expert 대비과정 (11.04-11.08) 1 - 로봇청소기, 강사님코드.md",
     "images/Pasted image 20250708235033.png",
     "images/Pasted image 20250708234835.png",
     "images/Pasted image 20250706171318.png",
-    "linux/redirection, dev",
-    "linux"
+    "images/Pasted image 20250706170334.png",
+    "images/Pasted image 20250706170150.png",
+    "images/Pasted image 20250706170048.png"
   ]
 }

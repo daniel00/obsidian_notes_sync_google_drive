@@ -74,9 +74,21 @@
               "icon": "lucide-file",
               "title": "commit test"
             }
+          },
+          {
+            "id": "9ac21101077c943d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -154,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.99999618530273,
-    "collapsed": true
+    "width": 274.99999618530273
   },
   "right": {
     "id": "f46ccf79de8a642b",
@@ -272,7 +283,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d190227cd9c2a7bf",
+  "active": "9ac21101077c943d",
   "lastOpenFiles": [
     "test/commit test.md",
     "conflict-files-obsidian-git.md",

@@ -79,12 +79,14 @@
             "id": "9ac21101077c943d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "macbook/yabai 사용법.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "yabai 사용법"
             }
           }
         ],
@@ -285,6 +287,7 @@
   },
   "active": "9ac21101077c943d",
   "lastOpenFiles": [
+    "macbook/yabai 사용법.md",
     "test/commit test.md",
     "conflict-files-obsidian-git.md",
     "windows/glazewm사용법/A Cheatsheet for Glaze Window Manager.md",
@@ -324,7 +327,6 @@
     "sw_expert/기출문제/minco - 로봇청소기.md",
     "sw_expert/강사님노트/minco - SDI SW역량테스트 Expert 대비과정 (11.04-11.08) 3 - 물품배송, 아이디어.md",
     "sw_expert/강사님노트/minco - SDI SW역량테스트 Expert 대비과정 (11.04-11.08) 2 - 로봇 청소기, 친절한 문제로 바꾸기.md",
-    "sw_expert/강사님노트/minco - SDI SW역량테스트 Expert 대비과정 (11.04-11.08) 1 - 로봇청소기, 강사님코드.md",
     "images/Pasted image 20250708235033.png",
     "images/Pasted image 20250708234835.png",
     "images/Pasted image 20250706171318.png",

@@ -4,79 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "45b1f9786e6b2336",
+        "id": "c1c5b7a47656e3b0",
         "type": "tabs",
         "children": [
           {
-            "id": "6bdaa15d3bab9bf3",
+            "id": "822ceb6f876decc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wsl/wsl에 개발폴더 만드는 방법.md",
+                "file": "lazyvim/c-k 리매핑.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "wsl에 개발폴더 만드는 방법"
-            }
-          },
-          {
-            "id": "ad3c0c8eb3c60448",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wsl/zshrc.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "zshrc"
-            }
-          },
-          {
-            "id": "0e255fb9d82df95e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
-          },
-          {
-            "id": "33b78ba30595e9d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "windows/glazewm사용법/A Cheatsheet for Glaze Window Manager.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A Cheatsheet for Glaze Window Manager"
-            }
-          },
-          {
-            "id": "d190227cd9c2a7bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test/commit test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "commit test"
+              "title": "c-k 리매핑"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,13 +216,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d190227cd9c2a7bf",
+  "active": "822ceb6f876decc6",
   "lastOpenFiles": [
+    "lazyvim/inlay hint.md",
+    "Evernote/evernote_backup_20240516/계정 암호.md",
     "Untitled 4.base",
     "Untitled 3.base",
     "Untitled 2.base",
-    "macbook/yabai 사용법.md",
     "mac/yabai/skhdrc_example/dotfiles.skhdrc.yabai at master · noperatordotfiles.md",
+    "macbook/yabai 사용법.md",
     "mac/yabai/skhdrc_example",
     "mac/yabai",
     "test/commit test.md",
@@ -290,13 +237,11 @@
     "mincoding/problems/연쇄폭탄/desktop.ini",
     "diy/desktop.ini",
     "macbook/desktop.ini",
-    "srt/desktop.ini",
     "주식/이광수명언.md",
     "mac/terminal 꾸미기 iterm.md",
     "images/Pasted image 20251031005930.png",
     "images/Pasted image 20251031004515.png",
     "역사/전제군주제.md",
-    "Evernote/evernote_backup_20240516/계정 암호.md",
     "test/note1.md",
     "로블록스 자동화.md",
     "computer/공유기관리192.168.0.1.md",

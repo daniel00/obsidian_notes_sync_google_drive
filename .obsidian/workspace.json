@@ -90,6 +90,16 @@
             "state": {
               "type": "tagfolder-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "tagfolder-view"
+            }
+          },
+          {
+            "id": "29cb2fca969fc2d7",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
               "icon": "stacked-levels",
               "title": "Tag Folder"
             }
@@ -188,8 +198,8 @@
             "state": {
               "type": "reminder-list",
               "state": {},
-              "icon": "clock",
-              "title": "Reminders"
+              "icon": "lucide-ghost",
+              "title": "reminder-list"
             }
           }
         ]

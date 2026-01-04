@@ -201,6 +201,16 @@
               "icon": "lucide-ghost",
               "title": "reminder-list"
             }
+          },
+          {
+            "id": "103e86cbc123291f",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
           }
         ]
       }

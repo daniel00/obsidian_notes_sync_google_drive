@@ -21,4 +21,22 @@ updated: 2026-01-06 22:37:17 Tue
 ###### 컴파일러 설치
 https://www.ti.com/tool/MSP430-GCC-OPENSOURCE?keyMatch=msp430%20gcc%20open%20source&tisearch=universal_search#downloads
 
+아래 파일 다운로드 (맥북에 다운로드 된다)
+	Mitto Systems GCC 64-bit Linux - toolchain only  — 62584 K
+
+맥북 -> 리눅스로 옮긴다.
+```term
+scp msp430-gcc-9.3.1.11_linux64.tar.bz2  daniel@100.93.43.23:/home/daniel/
+```
+
+tar로 아카이브를 푼다.
+```term
+tar xvf msp430-gcc-9.3.1.11_linux64.tar.bz2
+```
+
+
+
+
+
+
 

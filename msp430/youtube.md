@@ -43,10 +43,17 @@ bin 폴더로 이동해서 테스트를 해본다.
 이 경로를 환경변수에 넣는다.
 pwd로 경로 복사하고, ~/.bashrc ~/.zshrc에 넣는다.
 ```vim
-
-
+export PATH="$PATH:/home/daniel/msp430-gcc-9.3.1.11_linux64/bin"
 ```
 
+####### 리눅스의 텍스트 복사방법(vim 에서도 이렇게 해야 한다.)
+tmux 가 실행되어있다면, 복사하는 방법은
+마우스로 드래그 후 cmd + v 로 붙여 넣기
+
+또는
+
+tmux 키를 이용해서, ctrl b + [
+shift v 로 선택 후 y, cmd + v로 붙여넣기
 
 
 

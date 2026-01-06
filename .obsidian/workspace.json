@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "msb430project/1.프로젝트개요.md",
+                "file": "msp430/youtube.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.프로젝트개요"
+              "title": "youtube"
             }
           }
         ]
@@ -218,8 +218,10 @@
   },
   "active": "822ceb6f876decc6",
   "lastOpenFiles": [
-    "Evernote/evernote_backup_20240516/계정 암호.md",
     "msb430project/1.프로젝트개요.md",
+    "msp430/youtube.md",
+    "msp430",
+    "Evernote/evernote_backup_20240516/계정 암호.md",
     "msb430project",
     "lazyvim/c-u ctrl u 라인삭제로 매핑 하는법.md",
     "lazyvim/c-k 리매핑.md",
@@ -239,7 +241,6 @@
     "windows/glazewm사용법",
     "windows",
     "mincoding/problems/연쇄폭탄/desktop.ini",
-    "diy/desktop.ini",
     "주식/이광수명언.md",
     "mac/terminal 꾸미기 iterm.md",
     "images/Pasted image 20251031005930.png",
@@ -257,7 +258,6 @@
     "모션데스크.md",
     "mac/dosbox 사용법.md",
     "git/push하면서 리모트저장소 만들기.md",
-    "mac/에너지영향도. 온도.md",
     "images/Pasted image 20250708235033.png",
     "images/Pasted image 20250708234835.png",
     "images/Pasted image 20250706171318.png",

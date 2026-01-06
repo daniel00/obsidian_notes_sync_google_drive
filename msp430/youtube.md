@@ -24,6 +24,7 @@ https://www.ti.com/tool/MSP430-GCC-OPENSOURCE?keyMatch=msp430%20gcc%20open%20sou
 아래 파일 다운로드 (맥북에 다운로드 된다)
 	Mitto Systems GCC 64-bit Linux - toolchain only  — 62584 K
 
+
 맥북 -> 리눅스로 옮긴다.
 ```term
 scp msp430-gcc-9.3.1.11_linux64.tar.bz2  daniel@100.93.43.23:/home/daniel/
@@ -34,6 +35,17 @@ tar로 아카이브를 푼다.
 tar xvf msp430-gcc-9.3.1.11_linux64.tar.bz2
 ```
 
+
+bin 폴더로 이동해서 테스트를 해본다.
+
+![[Pasted image 20260106235443.png]]
+
+이 경로를 환경변수에 넣는다.
+pwd로 경로 복사하고, ~/.bashrc ~/.zshrc에 넣는다.
+```vim
+
+
+```
 
 
 

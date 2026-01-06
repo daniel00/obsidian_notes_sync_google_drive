@@ -13,6 +13,7 @@ updated: 2026-01-06 22:37:17 Tue
 #### 실습 할 것들
 
 - 컴파일러 설치
+- header 파일 설치
 - Blink LED 코드 작성
 - Makefile 작성
 - 
@@ -56,6 +57,9 @@ tmux 키를 이용해서, ctrl b + [
 shift v 로 선택 후 y, cmd + v로 붙여넣기
 
 
+##### 헤더파일 설치
+컴파일러 다운로드 페이지에서 아래의 링크를 찾아서 설치한다.
+Header and Support Files  — 21736 K
 
 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evernote/evernote_backup_20240516/계정 암호.md",
+                "file": "msb430project/1.프로젝트개요.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "계정 암호"
+              "title": "1.프로젝트개요"
             }
           }
         ]
@@ -218,10 +218,12 @@
   },
   "active": "822ceb6f876decc6",
   "lastOpenFiles": [
+    "Evernote/evernote_backup_20240516/계정 암호.md",
+    "msb430project/1.프로젝트개요.md",
+    "msb430project",
     "lazyvim/c-u ctrl u 라인삭제로 매핑 하는법.md",
     "lazyvim/c-k 리매핑.md",
     "lazyvim/inlay hint.md",
-    "Evernote/evernote_backup_20240516/계정 암호.md",
     "Untitled 4.base",
     "Untitled 3.base",
     "Untitled 2.base",
@@ -238,7 +240,6 @@
     "windows",
     "mincoding/problems/연쇄폭탄/desktop.ini",
     "diy/desktop.ini",
-    "macbook/desktop.ini",
     "주식/이광수명언.md",
     "mac/terminal 꾸미기 iterm.md",
     "images/Pasted image 20251031005930.png",
@@ -257,7 +258,6 @@
     "mac/dosbox 사용법.md",
     "git/push하면서 리모트저장소 만들기.md",
     "mac/에너지영향도. 온도.md",
-    "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 6.md",
     "images/Pasted image 20250708235033.png",
     "images/Pasted image 20250708234835.png",
     "images/Pasted image 20250706171318.png",

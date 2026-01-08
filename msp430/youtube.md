@@ -14,6 +14,7 @@ updated: 2026-01-06 22:37:17 Tue
 
 - 컴파일러 설치
 - header 파일 설치
+- lm4flash 설치
 - Blink LED 코드 작성
 - Makefile 작성
 - 
@@ -56,6 +57,15 @@ tmux 가 실행되어있다면, 복사하는 방법은
 tmux 키를 이용해서, ctrl b + [
 shift v 로 선택 후 y, cmd + v로 붙여넣기
 
+
+###### lm4flash 설치
+다음의 주소를 클론하고, 
+git clone https://github.com/utzig/lm4tools.git
+- cd lm4tools 
+- make
+- cp lm4flasy /usr/local/bin/
+- 테스트
+![[Pasted image 20260108220754.png]]
 
 ##### 헤더파일 설치
 컴파일러 다운로드 페이지에서 아래의 링크를 찾아서 설치한다.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evernote/evernote_backup_20240516/제목 없는 노트.6.md",
+                "file": "msp430/youtube.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "제목 없는 노트.6"
+              "title": "youtube"
             }
           }
         ]
@@ -218,6 +218,7 @@
   },
   "active": "822ceb6f876decc6",
   "lastOpenFiles": [
+    "Evernote/evernote_backup_20240516/제목 없는 노트.6.md",
     "msp430/youtube.md",
     "images/Pasted image 20260106235443.png",
     "msb430project/1.프로젝트개요.md",

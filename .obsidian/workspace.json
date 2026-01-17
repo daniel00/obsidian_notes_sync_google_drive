@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evernote/evernote_backup_20240516/계정 암호.md",
+                "file": "msp430/youtube.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "계정 암호"
+              "title": "youtube"
             }
           }
         ]
@@ -238,10 +238,17 @@
   },
   "active": "822ceb6f876decc6",
   "lastOpenFiles": [
+    "images/Pasted image 20260108220754.png",
+    "Evernote/evernote_backup_20240516/제목 없는 노트.6.md",
+    "msp430/youtube.md",
+    "images/Pasted image 20260106235443.png",
+    "msb430project/1.프로젝트개요.md",
+    "msp430",
+    "Evernote/evernote_backup_20240516/계정 암호.md",
+    "msb430project",
     "lazyvim/c-u ctrl u 라인삭제로 매핑 하는법.md",
     "lazyvim/c-k 리매핑.md",
     "lazyvim/inlay hint.md",
-    "Evernote/evernote_backup_20240516/계정 암호.md",
     "Untitled 4.base",
     "Untitled 3.base",
     "Untitled 2.base",
@@ -257,8 +264,6 @@
     "windows/glazewm사용법",
     "windows",
     "mincoding/problems/연쇄폭탄/desktop.ini",
-    "diy/desktop.ini",
-    "macbook/desktop.ini",
     "주식/이광수명언.md",
     "mac/terminal 꾸미기 iterm.md",
     "images/Pasted image 20251031005930.png",
@@ -274,15 +279,10 @@
     "images/Pasted image 20250830214500.png",
     "images/Pasted image 20250830214351.png",
     "모션데스크.md",
-    "mac/dosbox 사용법.md",
-    "git/push하면서 리모트저장소 만들기.md",
-    "mac/에너지영향도. 온도.md",
-    "sw_expert/강사님노트/minco - [SDI] SW역량테스트 Expert 대비과정 (11.04-11.08) 6.md",
     "images/Pasted image 20250708235033.png",
     "images/Pasted image 20250708234835.png",
     "images/Pasted image 20250706171318.png",
     "images/Pasted image 20250706170334.png",
-    "images/Pasted image 20250706170150.png",
-    "images/Pasted image 20250706170048.png"
+    "images/Pasted image 20250706170150.png"
   ]
 }

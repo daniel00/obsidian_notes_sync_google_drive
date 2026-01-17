@@ -1,7 +1,7 @@
 ---
 created: 2025-03-25 00:02
 updated: 2025-03-25 00:02
-tags: [c-k, inlay, hint, 힌트, 키맵, key map, ctrl k]
+tags: [c-k, inlay, hint, 힌트, 키맵, key map]
 alias: []
 ---
 

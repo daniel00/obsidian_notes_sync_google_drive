@@ -18,3 +18,4 @@ for repo in $(gh repo list --visibility=public --limit 1000 --json name -q '.[].
 done
 ```
 
+

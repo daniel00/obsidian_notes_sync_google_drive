@@ -76,6 +76,10 @@ keymap:
 
 
 ##### 자동실행 적용
-- 부팅시 자동실행
+- 부팅시 자동실행 - 아래 두개의 파일 작성
+	/home/daniel/.config/systemd/user/xremap.service
+	/home/daniel/.config/autostart/xremap.desktop
+```bash
 
+```
 - 키맵 변경후 재실행

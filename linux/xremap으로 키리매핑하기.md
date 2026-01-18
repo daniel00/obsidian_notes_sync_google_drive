@@ -117,4 +117,14 @@ keymap:
 
 - 키리매핑 후 적용하는 방법. 
 	config.yml 수정
-		
+	Makefile로 편하게 적용
+	>make
+```Makefile
+	# target ?= myapp (사용자 설정 유지)
+	target ?= xremap
+	
+	reload:
+		@echo "Safe reloading $(target) via systemd..."
+		systemctl --user restart $(target)
+```
+

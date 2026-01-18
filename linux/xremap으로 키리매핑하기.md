@@ -77,9 +77,44 @@ keymap:
 
 ##### 자동실행 적용
 - 부팅시 자동실행 - 아래 두개의 파일 작성
-	/home/daniel/.config/systemd/user/xremap.service
-	/home/daniel/.config/autostart/xremap.desktop
-```bash
 
+/home/daniel/.config/systemd/user/xremap.service
+
+```bash
+	[Desktop Entry]
+	Name=Xremap
+	Type=Application
+	Exec=systemctl --user start xremap
+	Terminal=false
 ```
-- 키맵 변경후 재실행
+
+
+/home/daniel/.config/autostart/xremap.desktop
+
+```bash
+	[Unit]
+	Description=Xremap
+	After=default.target
+	
+	[Service]
+	; ExecStart=/usr/bin/xremap --watch=device %h/.config/xremap/config.yml
+	ExecStartPre=/bin/sleep 10
+	ExecStart=/home/daniel/.cargo/bin/xremap --watch=device /home/daniel/.config/xremap/config.yml
+	
+	# 환경변수 명시 (특히 중요)
+	Environment=DISPLAY=:0
+	Environment=XAUTHORITY=%h/.Xauthority
+	
+	; Restart=always
+	Restart=5
+	StandardOutput=journal
+	StandardError=journal
+	
+	[Install]
+	WantedBy=default.target
+```
+
+
+- 키리매핑 후 적용하는 방법. 
+	config.yml 수정
+		

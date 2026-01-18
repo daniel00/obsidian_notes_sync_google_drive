@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c1c5b7a47656e3b0",
+        "id": "cacb15ae30017122",
         "type": "tabs",
         "children": [
           {
-            "id": "822ceb6f876decc6",
+            "id": "785b3d5f5c537b59",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -246,10 +246,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "822ceb6f876decc6",
+  "active": "785b3d5f5c537b59",
   "lastOpenFiles": [
-    "git/repository to private.md",
     "linux/xremap으로 키리매핑하기.md",
+    "git/repository to private.md",
     "lazyvim/c-k 리매핑.md",
     "nvim/LazyVim 키맵 변경 방법.md",
     "Evernote/evernote_backup_20240516/계정 암호.md",

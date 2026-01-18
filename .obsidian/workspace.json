@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/xremap으로 키리매핑하기.md",
+                "file": "tmux/터미널내용 복사하는법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "xremap으로 키리매핑하기"
+              "title": "터미널내용 복사하는법"
             }
           }
         ]
@@ -249,6 +249,7 @@
   "active": "785b3d5f5c537b59",
   "lastOpenFiles": [
     "linux/xremap으로 키리매핑하기.md",
+    "tmux/터미널내용 복사하는법.md",
     "git/repository to private.md",
     "lazyvim/c-k 리매핑.md",
     "nvim/LazyVim 키맵 변경 방법.md",
@@ -287,7 +288,6 @@
     "모니터.md",
     "권취 관련.md",
     "침대.md",
-    "게임/100 hidden words to find.md",
     "images/Pasted image 20250830214500.png",
     "images/Pasted image 20250830214351.png",
     "images/Pasted image 20250708235033.png",

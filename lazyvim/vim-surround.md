@@ -33,4 +33,6 @@ hello 단어 위에서
 
 ysiw {   :  {hello}
 ds{         : hello
-yss"       : 
+yss"       :  "hello"
+
+hello를 visual block잡고 , S "  --> "hello"

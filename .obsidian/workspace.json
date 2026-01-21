@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "debug"
             }
+          },
+          {
+            "id": "f818b845f74d33c2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,7 +259,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "785b3d5f5c537b59",
+  "active": "f818b845f74d33c2",
   "lastOpenFiles": [
     "lazyvim/vim-surround.md",
     "lazyvim/debug.md",

@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "youtube"
             }
+          },
+          {
+            "id": "0f7c48887d13854b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,7 +229,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "822ceb6f876decc6",
+  "active": "0f7c48887d13854b",
   "lastOpenFiles": [
     "images/Pasted image 20260108220754.png",
     "Evernote/evernote_backup_20240516/제목 없는 노트.6.md",

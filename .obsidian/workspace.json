@@ -46,9 +46,51 @@
               "icon": "lucide-file",
               "title": "계정 암호"
             }
+          },
+          {
+            "id": "c6ffcf36c3dfb239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "macbook/karabiner 카라비너로 esc 적용.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "karabiner 카라비너로 esc 적용"
+            }
+          },
+          {
+            "id": "ac1e152ccdedfa84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mac/시동음 끄기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "시동음 끄기"
+            }
+          },
+          {
+            "id": "bf0530ad4300cbef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -243,15 +285,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efe40b1768e23744",
+  "active": "bf0530ad4300cbef",
   "lastOpenFiles": [
+    "mac/시동음 끄기.md",
+    "conflict-files-obsidian-git.md",
+    "macbook/karabiner 카라비너로 esc 적용.md",
+    "Evernote/evernote_backup_20240516/계정 암호.md",
+    "tmux/터미널내용 복사하는법.md",
+    "linux/xremap으로 키리매핑하기.md",
+    "lazyvim/vim-surround.md",
+    "lazyvim/debug.md",
+    "lazyvim/c-k ctrl k 리매핑.md",
+    "git/repository to private.md",
     "images/Pasted image 20260108220754.png",
     "Evernote/evernote_backup_20240516/제목 없는 노트.6.md",
     "msp430/youtube.md",
     "images/Pasted image 20260106235443.png",
     "msb430project/1.프로젝트개요.md",
     "msp430",
-    "Evernote/evernote_backup_20240516/계정 암호.md",
     "msb430project",
     "lazyvim/c-u ctrl u 라인삭제로 매핑 하는법.md",
     "lazyvim/c-k 리매핑.md",
@@ -264,7 +315,6 @@
     "mac/yabai/skhdrc_example",
     "mac/yabai",
     "test/commit test.md",
-    "conflict-files-obsidian-git.md",
     "windows/glazewm사용법/A Cheatsheet for Glaze Window Manager.md",
     "wsl/zshrc.md",
     "wsl/wsl에 개발폴더 만드는 방법.md",
@@ -277,19 +327,11 @@
     "images/Pasted image 20251031004515.png",
     "역사/전제군주제.md",
     "test/note1.md",
-    "로블록스 자동화.md",
-    "computer/공유기관리192.168.0.1.md",
-    "모니터.md",
-    "권취 관련.md",
-    "침대.md",
-    "게임/100 hidden words to find.md",
     "images/Pasted image 20250830214500.png",
     "images/Pasted image 20250830214351.png",
-    "모션데스크.md",
     "images/Pasted image 20250708235033.png",
     "images/Pasted image 20250708234835.png",
     "images/Pasted image 20250706171318.png",
-    "images/Pasted image 20250706170334.png",
-    "images/Pasted image 20250706170150.png"
+    "images/Pasted image 20250706170334.png"
   ]
 }

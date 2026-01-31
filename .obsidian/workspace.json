@@ -25,12 +25,14 @@
             "id": "f818b845f74d33c2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "linux/xremap으로 키리매핑하기.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "icon": "lucide-file",
+              "title": "xremap으로 키리매핑하기"
             }
           }
         ],

@@ -16,6 +16,7 @@ win + enter 누르고,
 - ctrl 키 누른체로,  hjkl 또는 방향키 누르면 swap
 - shift키 누른체로, hjkl 또는 방향키 누르면 resize window
 
+락스크린 : Win + Esc
 
 
 

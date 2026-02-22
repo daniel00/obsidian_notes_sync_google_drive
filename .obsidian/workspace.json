@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "역사/조선왕.md",
+                "file": "linux/pop shell window manager 사용법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "조선왕"
+              "title": "pop shell window manager 사용법"
             }
           }
         ]
@@ -248,8 +248,8 @@
   },
   "active": "e4e7e41d3c4c0bac",
   "lastOpenFiles": [
-    "세종.md",
     "역사/조선왕.md",
+    "세종.md",
     "boj/1261 알고스팟 algospot.md",
     "Jekyll/2024-04-08-1차세계대전.md",
     "linux/pop shell window manager 사용법.md",

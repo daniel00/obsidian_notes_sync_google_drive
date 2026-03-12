@@ -3,7 +3,7 @@
   "theme": "moonstone",
   "textFontFamily": "Gowun Dodum",
   "interfaceFontFamily": "Gowun Dodum",
-  "baseFontSize": 18,
+  "baseFontSize": 14,
   "monospaceFontFamily": "Monaco",
   "enabledCssSnippets": [
     "big-math",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stm32/개발환경.md",
+                "file": "Jekyll/2024-05-02-LogitechMouse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "개발환경"
+              "title": "2024-05-02-LogitechMouse"
             }
           }
         ]
@@ -114,7 +114,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -247,10 +248,10 @@
   },
   "active": "e4e7e41d3c4c0bac",
   "lastOpenFiles": [
+    "stm32/개발환경.md",
     "images/Sbac8661c00b24e7da1d8603c95ac3796H.pdf",
     "images/20260317_232432.jpg",
     "images/20260317_221639.jpg",
-    "stm32/개발환경.md",
     "images/Pasted image 20260317220646.png",
     "images/Pasted image 20260317214426.png",
     "images/Pasted image 20260317214148.png",
@@ -290,7 +291,6 @@
     "Untitled 2.base",
     "mac/yabai/skhdrc_example",
     "mac/yabai",
-    "windows/glazewm사용법",
     "images/Pasted image 20251031005930.png",
     "images/Pasted image 20251031004515.png"
   ]
